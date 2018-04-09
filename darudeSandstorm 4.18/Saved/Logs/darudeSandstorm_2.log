@@ -1,0 +1,851 @@
+﻿Log file open, 04/09/18 18:45:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: darudeSandstorm
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1931739536) SRandInit(-1931739536).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219202
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.09-22.45.48:168][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-22.45.48:168][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.09-22.45.48:184][  0]LogInit: Computer: DESKTOP-491DMT1
+[2018.04.09-22.45.48:184][  0]LogInit: User: Katie
+[2018.04.09-22.45.48:184][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.09-22.45.48:184][  0]LogInit: High frequency timer resolution =2.648438 MHz
+[2018.04.09-22.45.48:184][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.09-22.45.48:184][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.09-22.45.48:184][  0]LogMemory: Process Physical Memory: 276.99 MB used, 276.99 MB peak
+[2018.04.09-22.45.48:184][  0]LogMemory: Process Virtual Memory: 267.87 MB used, 267.87 MB peak
+[2018.04.09-22.45.48:184][  0]LogMemory: Physical Memory: 5685.26 MB used,  2436.36 MB free, 8121.61 MB total
+[2018.04.09-22.45.48:184][  0]LogMemory: Virtual Memory: 724.43 MB used,  2436.36 MB free, 134217728.00 MB total
+[2018.04.09-22.45.48:385][  0]LogInit: Using OS detected language (en-US).
+[2018.04.09-22.45.48:385][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.09-22.45.48:393][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.09-22.45.49:078][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.09-22.45.49:366][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.09-22.45.49:426][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.04.09-22.45.49:426][  0]LogD3D11RHI:       4043/0/4060 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.09-22.45.49:428][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.09-22.45.49:428][  0]LogD3D11RHI:       0/0/4060 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.09-22.45.49:428][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.09-22.45.49:441][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.09-22.45.49:441][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.09-22.45.49:441][  0]LogWindows: EnumDisplayDevices:
+[2018.04.09-22.45.49:441][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.04.09-22.45.49:442][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.04.09-22.45.49:442][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.04.09-22.45.49:442][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.04.09-22.45.49:442][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.09-22.45.49:442][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.04.09-22.45.49:442][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.09-22.45.49:442][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.09-22.45.49:442][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.04.09-22.45.49:469][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.09-22.45.49:487][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.09-22.45.49:491][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Intermediate/Shaders/WorkingDirectory/9296/).
+[2018.04.09-22.45.49:491][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Katie/AppData/Local/Temp/UnrealShaderWorkingDir/008857C04EFDC9BE76985DAAC21CADF3/'.
+[2018.04.09-22.45.49:491][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.09-22.45.50:965][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.09-22.45.51:059][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.09-22.45.51:162][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.09-22.45.51:263][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.09-22.45.51:361][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.09-22.45.51:443][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.09-22.45.51:539][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.09-22.45.51:629][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.09-22.45.51:734][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.09-22.45.51:807][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.09-22.45.51:875][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.09-22.45.51:951][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.09-22.45.52:049][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.09-22.45.52:124][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.09-22.45.52:281][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.09-22.45.52:281][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.09-22.45.52:363][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.09-22.45.52:416][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.09-22.45.52:540][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.09-22.45.52:580][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.09-22.45.52:662][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.09-22.45.52:751][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.09-22.45.52:830][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.09-22.45.52:901][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.09-22.45.52:901][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.09-22.45.53:579][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.09-22.45.54:133][  0]LogDerivedDataCache: Loaded boot cache 0.55s 227MB C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.09-22.45.54:133][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.09-22.45.54:133][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.09-22.45.54:133][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.09-22.45.54:133][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.09-22.45.54:133][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.09-22.45.54:153][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.09-22.45.54:169][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Katie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.09-22.45.54:183][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.09-22.45.54:184][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.09-22.45.54:184][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-22.45.54:184][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-22.45.54:971][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-22.45.55:569][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.09-22.45.55:647][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.09-22.45.55:647][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.09-22.45.55:647][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.09-22.45.55:647][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.09-22.45.55:647][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.09-22.45.55:706][  0]LogNetVersion: darudeSandstorm , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2244262674)
+[2018.04.09-22.45.56:009][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2018.04.09-22.45.56:884][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.107406 seconds
+[2018.04.09-22.45.56:897][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.09-22.45.56:897][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.09-22.45.56:897][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.09-22.45.56:978][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.09-22.46.04:350][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.09-22.46.04:414][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.09-22.46.05:330][  0]LogConfig: Warning: Failed to saved backup for config[InternationalizationExport]
+[2018.04.09-22.46.05:432][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.09-22.46.06:075][  0]SourceControl: Source control is disabled
+[2018.04.09-22.46.06:075][  0]SourceControl: Source control is disabled
+[2018.04.09-22.46.06:169][  0]SourceControl: Source control is disabled
+[2018.04.09-22.46.06:252][  0]SourceControl: Source control is disabled
+[2018.04.09-22.46.07:570][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.09-22.46.07:954][  0]LogOcInput: OculusInput pre-init called
+[2018.04.09-22.46.08:429][  0]LogEngine: Initializing Engine...
+[2018.04.09-22.46.09:313][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.04.09-22.46.09:666][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.09-22.46.09:667][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.09-22.46.09:891][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.09-22.46.09:907][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-22.46.09:940][  0]LogInit: FAudioDevice initialized.
+[2018.04.09-22.46.10:314][  0]LogDerivedDataCache: Saved boot cache 0.37s 227MB C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.09-22.46.10:384][  0]LogInit: Texture streaming: Enabled
+[2018.04.09-22.46.10:540][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.09-22.46.10:750][  0]LogInit: Transaction tracking system initialized
+[2018.04.09-22.46.11:229][  0]BlueprintLog: New page: Editor Load
+[2018.04.09-22.46.14:492][  0]LocalizationService: Localization service is disabled
+[2018.04.09-22.46.16:117][  0]LogConsoleResponse: Display: 
+[2018.04.09-22.46.16:629][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.09-22.46.16:629][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.09-22.46.16:629][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.09-22.46.17:911][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/' took 0.02s
+[2018.04.09-22.46.19:141][  0]SourceControl: Source control is disabled
+[2018.04.09-22.46.19:160][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.04.09-22.46.19:182][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.04.09-22.46.19:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.04.09-22.46.19:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.04.09-22.46.19:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.04.09-22.46.19:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.04.09-22.46.19:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.04.09-22.46.19:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.04.09-22.46.19:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.04.09-22.46.19:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.04.09-22.46.19:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.04.09-22.46.19:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.04.09-22.46.19:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.04.09-22.46.19:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.04.09-22.46.19:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.04.09-22.46.19:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.04.09-22.46.19:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.04.09-22.46.19:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.04.09-22.46.19:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.04.09-22.46.19:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Fire01.uasset"
+[2018.04.09-22.46.19:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.04.09-22.46.19:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.04.09-22.46.19:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.04.09-22.46.19:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Light01.uasset"
+[2018.04.09-22.46.19:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.04.09-22.46.19:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Light02.uasset"
+[2018.04.09-22.46.19:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.04.09-22.46.19:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.04.09-22.46.19:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.04.09-22.46.19:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.04.09-22.46.19:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.04.09-22.46.19:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.04.09-22.46.19:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.04.09-22.46.19:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.04.09-22.46.19:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.04.09-22.46.19:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Steam01.uasset"
+[2018.04.09-22.46.19:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.04.09-22.46.19:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.04.09-22.46.19:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.04.09-22.46.19:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.04.09-22.46.19:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.04.09-22.46.19:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.04.09-22.46.19:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.04.09-22.46.19:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.04.09-22.46.19:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.04.09-22.46.19:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.04.09-22.46.19:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.04.09-22.46.19:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.04.09-22.46.19:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.04.09-22.46.19:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.04.09-22.46.19:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.04.09-22.46.19:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.04.09-22.46.19:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.04.09-22.46.20:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.04.09-22.46.20:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.04.09-22.46.20:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.04.09-22.46.20:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.04.09-22.46.20:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.04.09-22.46.20:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Maps/StarterMap.umap"
+[2018.04.09-22.46.20:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.04.09-22.46.20:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.04.09-22.46.20:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.04.09-22.46.20:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.04.09-22.46.20:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.04.09-22.46.20:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.04.09-22.46.20:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.04.09-22.46.20:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.04.09-22.46.20:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.04.09-22.46.20:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.04.09-22.46.20:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.04.09-22.46.20:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.04.09-22.46.20:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.04.09-22.46.20:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.04.09-22.46.20:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.04.09-22.46.20:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.04.09-22.46.20:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.04.09-22.46.20:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.04.09-22.46.20:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.04.09-22.46.20:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.04.09-22.46.20:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.04.09-22.46.20:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.04.09-22.46.20:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.04.09-22.46.20:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.04.09-22.46.20:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.04.09-22.46.20:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.04.09-22.46.20:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.04.09-22.46.20:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.04.09-22.46.20:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.04.09-22.46.20:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.04.09-22.46.20:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.04.09-22.46.20:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.04.09-22.46.20:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.04.09-22.46.20:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.04.09-22.46.21:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.04.09-22.46.21:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.04.09-22.46.21:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.04.09-22.46.21:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.04.09-22.46.21:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.04.09-22.46.21:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.04.09-22.46.21:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.04.09-22.46.21:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.04.09-22.46.21:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.04.09-22.46.21:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.04.09-22.46.21:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.04.09-22.46.21:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.04.09-22.46.21:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.04.09-22.46.21:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.04.09-22.46.21:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.04.09-22.46.21:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.04.09-22.46.21:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.04.09-22.46.21:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.04.09-22.46.21:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.04.09-22.46.21:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.04.09-22.46.21:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.04.09-22.46.21:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.04.09-22.46.21:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.04.09-22.46.21:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.04.09-22.46.21:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.04.09-22.46.21:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.04.09-22.46.21:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.04.09-22.46.21:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.04.09-22.46.21:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.04.09-22.46.21:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.04.09-22.46.21:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.04.09-22.46.21:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Door.uasset"
+[2018.04.09-22.46.21:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.04.09-22.46.21:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.04.09-22.46.21:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.04.09-22.46.22:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.04.09-22.46.22:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.04.09-22.46.22:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.04.09-22.46.22:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.04.09-22.46.22:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.04.09-22.46.22:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.04.09-22.46.22:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.04.09-22.46.22:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.04.09-22.46.22:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.04.09-22.46.22:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.04.09-22.46.22:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.04.09-22.46.22:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.04.09-22.46.22:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.04.09-22.46.22:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.04.09-22.46.22:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.04.09-22.46.22:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.04.09-22.46.22:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.04.09-22.46.22:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.04.09-22.46.22:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.04.09-22.46.22:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.04.09-22.46.22:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.04.09-22.46.22:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.04.09-22.46.22:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.04.09-22.46.22:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.04.09-22.46.22:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.04.09-22.46.22:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.04.09-22.46.22:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.04.09-22.46.22:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.04.09-22.46.22:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.04.09-22.46.22:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.04.09-22.46.22:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.04.09-22.46.22:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.04.09-22.46.22:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.04.09-22.46.22:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.04.09-22.46.22:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.04.09-22.46.22:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.04.09-22.46.22:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.04.09-22.46.22:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.04.09-22.46.22:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.04.09-22.46.22:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.04.09-22.46.22:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.04.09-22.46.22:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.04.09-22.46.22:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.04.09-22.46.22:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.04.09-22.46.22:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.04.09-22.46.23:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.04.09-22.46.23:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.04.09-22.46.23:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.04.09-22.46.23:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.04.09-22.46.23:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.04.09-22.46.23:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.04.09-22.46.23:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.04.09-22.46.23:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.04.09-22.46.23:815][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset".
+[2018.04.09-22.46.23:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.04.09-22.46.24:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.04.09-22.46.24:486][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Bush_N.uasset".
+[2018.04.09-22.46.24:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.04.09-22.46.24:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.04.09-22.46.24:509][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Chair_M.uasset".
+[2018.04.09-22.46.24:525][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Chair_N.uasset".
+[2018.04.09-22.46.24:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.04.09-22.46.24:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.04.09-22.46.24:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.04.09-22.46.24:614][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset".
+[2018.04.09-22.46.24:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.04.09-22.46.24:658][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset".
+[2018.04.09-22.46.24:702][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset".
+[2018.04.09-22.46.24:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.04.09-22.46.24:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.04.09-22.46.24:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.04.09-22.46.24:865][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset".
+[2018.04.09-22.46.24:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.04.09-22.46.24:917][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset".
+[2018.04.09-22.46.25:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.04.09-22.46.25:135][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset".
+[2018.04.09-22.46.25:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.04.09-22.46.25:275][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset".
+[2018.04.09-22.46.25:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.04.09-22.46.25:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.04.09-22.46.25:312][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Door_M.uasset".
+[2018.04.09-22.46.25:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.04.09-22.46.25:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.04.09-22.46.25:342][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Explosion_SubUV.uasset".
+[2018.04.09-22.46.25:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.04.09-22.46.25:381][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset".
+[2018.04.09-22.46.25:389][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Frame_M.uasset".
+[2018.04.09-22.46.25:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.04.09-22.46.25:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.04.09-22.46.25:417][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Ground_Grass_D.uasset".
+[2018.04.09-22.46.25:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.04.09-22.46.25:512][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset".
+[2018.04.09-22.46.25:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.04.09-22.46.25:590][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_ground_Moss_D.uasset".
+[2018.04.09-22.46.25:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.04.09-22.46.25:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.04.09-22.46.25:700][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Lamp_N.uasset".
+[2018.04.09-22.46.25:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.04.09-22.46.25:781][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset".
+[2018.04.09-22.46.25:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.04.09-22.46.25:832][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Gold_D.uasset".
+[2018.04.09-22.46.25:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.04.09-22.46.25:878][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Rust_D.uasset".
+[2018.04.09-22.46.26:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.04.09-22.46.26:029][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Steel_D.uasset".
+[2018.04.09-22.46.26:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.04.09-22.46.26:083][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset".
+[2018.04.09-22.46.26:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.04.09-22.46.26:150][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_RockMesh_N.uasset".
+[2018.04.09-22.46.26:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.04.09-22.46.26:266][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset".
+[2018.04.09-22.46.26:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.04.09-22.46.26:332][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset".
+[2018.04.09-22.46.26:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.04.09-22.46.27:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.04.09-22.46.27:100][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Slate_N.uasset".
+[2018.04.09-22.46.27:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.04.09-22.46.27:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.04.09-22.46.27:178][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Shelf_N.uasset".
+[2018.04.09-22.46.27:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.04.09-22.46.27:198][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Smoke_SubUV.uasset".
+[2018.04.09-22.46.27:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.04.09-22.46.27:220][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Spark_Core.uasset".
+[2018.04.09-22.46.27:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.04.09-22.46.27:267][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Statue_N.uasset".
+[2018.04.09-22.46.27:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.04.09-22.46.27:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.04.09-22.46.27:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.04.09-22.46.27:370][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Tech_Dot_N.uasset".
+[2018.04.09-22.46.27:379][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset".
+[2018.04.09-22.46.27:399][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset".
+[2018.04.09-22.46.27:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.04.09-22.46.27:503][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Tech_Panel_N.uasset".
+[2018.04.09-22.46.27:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.04.09-22.46.27:532][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Water_N.uasset".
+[2018.04.09-22.46.27:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.04.09-22.46.27:597][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset".
+[2018.04.09-22.46.27:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.04.09-22.46.27:666][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Oak_D.uasset".
+[2018.04.09-22.46.27:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.04.09-22.46.27:766][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Pine_D.uasset".
+[2018.04.09-22.46.27:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.04.09-22.46.27:818][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset".
+[2018.04.09-22.46.27:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.04.09-22.46.28:137][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.04.09-22.46.28:722][  0]LogSavePackage: Save=21.84ms
+[2018.04.09-22.46.28:722][  0]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Floor_400x4000332B19E4098944BDB8A0A908B779368.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.04.09-22.46.28:735][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.04.09-22.46.28:735][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.04.09-22.46.28:978][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.09-22.46.29:008][  0]LightingResults: New page: Lighting Build
+[2018.04.09-22.46.33:140][  0]MapCheck: New page: Map Check
+[2018.04.09-22.46.33:140][  0]LightingResults: New page: Lighting Build
+[2018.04.09-22.46.34:998][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.09-22.46.35:027][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.09-22.46.35:068][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.09-22.46.35:136][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.689ms to complete.
+[2018.04.09-22.46.35:136][  0]LogFileHelpers: Loading map 'Minimal_Default' took 6.271
+[2018.04.09-22.46.35:270][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.09-22.46.35:270][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.09-22.46.35:556][  0]LogCollectionManager: Loaded 0 collections in 0.002222 seconds
+[2018.04.09-22.46.35:732][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Collections/' took 0.02s
+[2018.04.09-22.46.35:732][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/Developers/Katie/Collections/' took 0.01s
+[2018.04.09-22.46.35:732][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Content/Collections/' took 0.03s
+[2018.04.09-22.46.35:732][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.09-22.46.35:745][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2363 classes and 519 folders.
+[2018.04.09-22.46.35:849][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.09-22.46.36:397][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.09-22.46.36:472][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.04.09-22.46.36:578][  0]LogSlate: Took 0.014569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.09-22.46.36:590][  0]LogSlate: Took 0.008280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.09-22.46.36:606][  0]LogSlate: Took 0.007777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.09-22.46.36:750][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.09-22.46.36:847][  0]LogSlate: Took 0.007980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.09-22.46.37:237][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.04.09-22.46.37:237][  0]LogLoad: (Engine Initialization) Total time: 53.07 seconds
+[2018.04.09-22.46.37:237][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.09-22.46.37:238][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.09-22.46.37:238][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.09-22.46.38:543][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.09-22.46.38:617][  1]LogAssetRegistry: Asset discovery search completed in 42.6340 seconds
+[2018.04.09-22.46.38:620][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.09-22.46.38:620][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.04.09-22.46.48:505][878]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.04.09-22.46.48:655][878]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.09-22.46.48:748][878]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2018.04.09-22.49.18:096][763]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.09-22.59.08:553][302]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.09-22.59.08:571][302]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.04.09-22.59.09:207][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.09-22.59.09:219][360]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.04.09-22.59.10:283][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.09-22.59.10:294][463]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.04.09-22.59.11:220][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.09-22.59.11:233][550]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.04.09-22.59.37:135][650]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.04.09-22.59.37:230][650]LogMaterial: Warning: Material /Game/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2018.04.09-22.59.37:233][650]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.04.09-22.59.46:041][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.09-22.59.46:052][357]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.04.09-22.59.58:117][370]LogEditorActor: Deleted Actor: AmbientSound
+[2018.04.09-22.59.58:130][370]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.04.09-22.59.59:685][487]LogEditorActor: Deleted Actor: PlayerStart
+[2018.04.09-22.59.59:697][487]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.04.09-23.00.01:393][627]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.04.09-23.00.01:407][627]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.04.09-23.00.04:407][885]LogEditorActor: Deleted Actor: PostProcessVolume
+[2018.04.09-23.00.04:419][885]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.04.09-23.00.16:455][906]MapCheck: New page: Map Check
+[2018.04.09-23.00.16:484][906]LightingResults: New page: Lighting Build - Apr 9, 2018, 3:00:16 PM
+[2018.04.09-23.00.16:610][906]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.09-23.00.16:704][906]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.09-23.00.16:739][906]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.09-23.00.17:852][906]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.09-23.00.17:853][906]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9296
+[2018.04.09-23.00.20:857][906]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.04.09-23.00.20:858][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.09-23.00.20:858][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.09-23.00.20:858][906]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.09-23.00.20:858][906]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.09-23.00.20:858][906]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.09-23.00.21:141][906]LogEditorBuildUtils: Build time 0:04
+[2018.04.09-23.00.21:154][906]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.04.09-23.00.21:163][906]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.04.09-23.00.21:179][907]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.04.09-23.00.21:186][907]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.04.09-23.00.40:292][909]LogSavePackage: Save=167.59ms
+[2018.04.09-23.00.40:292][909]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Minimal_Default_Auto1F27C4646485B3D246C333DB394C49A01.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.04.09-23.00.40:295][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2018.04.09-23.00.40:307][909]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.227
+[2018.04.09-23.00.40:307][909]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.227
+[2018.04.09-23.00.40:311][909]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert1] ([1] browsable assets)...
+[2018.04.09-23.00.40:341][909]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert1.lambert1]
+[2018.04.09-23.00.40:341][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert1]
+[2018.04.09-23.00.40:341][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert1" FILE="../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/lambert1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.09-23.00.40:375][909]LogSavePackage: Save=24.82ms
+[2018.04.09-23.00.40:375][909]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/lambert1_Auto14E6F54BC49EFBFD258293DA999453EAB.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/lambert1_Auto1.uasset'
+[2018.04.09-23.00.40:376][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/lambert1_Auto1.uasset
+[2018.04.09-23.00.40:376][909]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.04.09-23.00.44:796][ 36]Job is a success!
+[2018.04.09-23.00.44:886][ 37]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.04.09-23.00.44:886][ 37]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.09-23.00.44:886][ 37]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.04.09-23.00.44:886][ 37]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.09-23.00.44:886][ 37]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.04.09-23.00.44:886][ 37]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.04.09-23.00.44:886][ 37]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2018.04.09-23.00.44:966][ 37]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.04.09-23.00.45:055][ 37]LogStaticLightingSystem: Illumination: 28.5 sec (25 ms encoding lightmaps, 36 ms encoding shadowmaps)
+[2018.04.09-23.00.45:055][ 37]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.04.09-23.00.45:055][ 37]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.09-23.00.45:955][ 37]DumpUnbuiltLightIteractions
+[2018.04.09-23.00.45:955][ 37]Lights with unbuilt interactions: 0
+[2018.04.09-23.00.45:955][ 37]
+[2018.04.09-23.00.45:955][ 37]Primitives with unbuilt interactions: 0
+[2018.04.09-23.00.46:008][ 38]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.09-23.00.46:008][ 38]MapCheck: New page: Minimal_Default - Apr 9, 2018, 3:00:46 PM
+[2018.04.09-23.00.46:073][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.038ms to complete.
+[2018.04.09-23.01.00:976][451]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.09-23.02.10:576][840]LogCascade: Non-seeded module ParticleModuleRequired
+[2018.04.09-23.02.50:787][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.03.27:573][675]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.09-23.03.28:410][675]LogSlate: Took 0.006915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.09-23.03.44:199][423]LogSlate: Took 0.007031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.09-23.10.42:158][736]LogSavePackage: Save=224.13ms
+[2018.04.09-23.10.42:158][736]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Minimal_Default_Auto28FF456914884AD36291D779BFEF4587A.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.04.09-23.10.42:162][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2018.04.09-23.10.42:170][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.302
+[2018.04.09-23.10.42:172][736]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2018.04.09-23.10.42:174][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Maps/Minimal_Default_BuiltData] ([1] browsable assets)...
+[2018.04.09-23.10.42:174][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/Minimal_Default_BuiltData]
+[2018.04.09-23.10.42:210][736]LogSavePackage: Save=16.20ms
+[2018.04.09-23.10.42:210][736]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Minimal_Default_BuiltData_Auto2BB09054C4E1B43C30FDE8AAB1DD60C48.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto2.uasset'
+[2018.04.09-23.10.42:213][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto2.uasset
+[2018.04.09-23.10.42:213][736]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.04.09-23.15.15:435][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.09-23.15.18:401][600]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Smoke)
+[2018.04.09-23.16.48:710][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.16.52:649][430]Cmd: TRANSACTION UNDO
+[2018.04.09-23.16.52:649][430]LogEditorTransaction: Undo Move Actors
+[2018.04.09-23.16.56:845][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.17.09:312][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.17.11:278][147]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Smoke)
+[2018.04.09-23.17.19:026][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.17.21:009][ 24]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Smoke)
+[2018.04.09-23.17.22:575][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.17.23:976][302]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Smoke)
+[2018.04.09-23.17.50:782][730]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Smoke)
+[2018.04.09-23.18.03:918][966]LogStaticMesh: Building static mesh mockCharacter...
+[2018.04.09-23.18.03:942][966]LogStaticMesh: Built static mesh [0.03s] /Game/mockCharacter.mockCharacter
+[2018.04.09-23.18.05:001][ 67]LogActorFactory: Actor Factory created mockCharacter
+[2018.04.09-23.18.05:944][149]LogActorFactory: Actor Factory created mockCharacter
+[2018.04.09-23.18.22:932][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.18.30:884][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mockCharacter)
+[2018.04.09-23.18.46:730][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mockCharacter)
+[2018.04.09-23.18.51:817][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.18.53:569][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mockCharacter)
+[2018.04.09-23.19.00:289][179]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Smoke)
+[2018.04.09-23.19.18:744][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mockCharacter)
+[2018.04.09-23.20.45:196][905]LogSavePackage: Save=201.29ms
+[2018.04.09-23.20.45:196][905]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Minimal_Default_Auto3F5538452489F67A1F4B9DC8875AE7C85.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2018.04.09-23.20.45:200][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap
+[2018.04.09-23.20.45:206][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.268
+[2018.04.09-23.20.45:206][905]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.268
+[2018.04.09-23.20.45:209][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Smoke] ([1] browsable assets)...
+[2018.04.09-23.20.45:216][905]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Smoke.P_Smoke]
+[2018.04.09-23.20.45:216][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Smoke]
+[2018.04.09-23.20.45:260][905]LogSavePackage: Save=33.11ms
+[2018.04.09-23.20.45:260][905]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/P_Smoke_Auto30E74FD0C4FF7FA7ABD9E83B8E9145801.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Particles/P_Smoke_Auto3.uasset'
+[2018.04.09-23.20.45:262][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Particles/P_Smoke_Auto3.uasset
+[2018.04.09-23.20.45:262][905]LogFileHelpers: Auto-saving content packages took 0.054
+[2018.04.09-23.24.23:947][188]Cmd: TRANSACTION UNDO
+[2018.04.09-23.24.23:947][188]LogEditorTransaction: Undo Set Color Property
+[2018.04.09-23.24.25:086][312]Cmd: TRANSACTION UNDO
+[2018.04.09-23.24.25:086][312]LogEditorTransaction: Undo Set Color Property
+[2018.04.09-23.24.26:837][501]Cmd: TRANSACTION UNDO
+[2018.04.09-23.24.26:837][501]LogEditorTransaction: Undo Set Color Property
+[2018.04.09-23.24.31:571][  0]Cmd: TRANSACTION UNDO
+[2018.04.09-23.24.31:571][  0]LogEditorTransaction: Undo Set Color Property
+[2018.04.09-23.26.01:493][470]LogCascade: Non-seeded module ParticleModuleLocationPrimitiveSphere
+[2018.04.09-23.28.04:953][461]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Smoke)
+[2018.04.09-23.29.41:267][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.29.50:852][275]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.09-23.29.52:734][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.29.52:735][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-23.29.52:738][275]PIE: New page: PIE session: Minimal_Default (Apr 9, 2018, 3:29:52 PM)
+[2018.04.09-23.29.52:739][275]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.04.09-23.29.52:757][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018350s)
+[2018.04.09-23.29.52:758][275]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.09-23.29.52:759][275]LogPlayLevel: PIE: World Init took: (0.001566s)
+[2018.04.09-23.29.52:760][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.021133s)
+[2018.04.09-23.29.52:790][275]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-23.29.52:814][275]LogInit: FAudioDevice initialized.
+[2018.04.09-23.29.52:864][275]LogLoad: Game class is 'GameModeBase'
+[2018.04.09-23.29.52:866][275]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.04.09-19.29.52
+[2018.04.09-23.29.52:868][275]LogWorld: Bringing up level for play took: 0.002792
+[2018.04.09-23.29.52:958][275]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.04.09-23.29.52:964][275]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.302
+[2018.04.09-23.29.52:964][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.30.07:868][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.30.07:915][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.30.15:470][411]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.09-23.30.15:489][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.30.15:489][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-23.30.15:490][411]PIE: New page: PIE session: Minimal_Default (Apr 9, 2018, 3:30:15 PM)
+[2018.04.09-23.30.15:490][411]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.04.09-23.30.15:494][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003777s)
+[2018.04.09-23.30.15:494][411]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.09-23.30.15:495][411]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2018.04.09-23.30.15:495][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005302s)
+[2018.04.09-23.30.15:520][411]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-23.30.15:542][411]LogInit: FAudioDevice initialized.
+[2018.04.09-23.30.15:581][411]LogLoad: Game class is 'GameModeBase'
+[2018.04.09-23.30.15:582][411]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.04.09-19.30.15
+[2018.04.09-23.30.15:583][411]LogWorld: Bringing up level for play took: 0.001062
+[2018.04.09-23.30.15:584][411]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.923
+[2018.04.09-23.30.15:585][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.30.59:567][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.30.59:613][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.31.32:819][668]LogCascade: Non-seeded module ParticleModuleTypeDataGpu
+[2018.04.09-23.32.09:278][961]LogSavePackage: Save=205.46ms
+[2018.04.09-23.32.09:278][961]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Minimal_Default_Auto4471A6B0C40321C2CEC393090900A4D71.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2018.04.09-23.32.09:283][961]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap
+[2018.04.09-23.32.09:292][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.267
+[2018.04.09-23.32.09:293][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.267
+[2018.04.09-23.32.09:300][961]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Smoke] ([1] browsable assets)...
+[2018.04.09-23.32.09:309][961]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Smoke.P_Smoke]
+[2018.04.09-23.32.09:309][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Smoke]
+[2018.04.09-23.32.09:385][961]LogSavePackage: Save=61.22ms
+[2018.04.09-23.32.09:385][961]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/P_Smoke_Auto4407CFC6F4781C8240CF042947B5C7846.tmp' to '../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Particles/P_Smoke_Auto4.uasset'
+[2018.04.09-23.32.09:386][961]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Autosaves/Game/StarterContent/Particles/P_Smoke_Auto4.uasset
+[2018.04.09-23.32.09:386][961]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.04.09-23.33.23:840][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.09-23.33.27:938][525]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.09-23.33.36:706][283]LogClient: High resolution screenshot saved as C:/Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Screenshots/Windows/HighresScreenshot00000.png
+[2018.04.09-23.34.28:590][574]LogClient: High resolution screenshot saved as C:/Users/Katie/Documents/Unreal Projects/darudeSandstorm 4.18/Saved/Screenshots/Windows/HighresScreenshot00001.png
+[2018.04.09-23.34.56:298][219]LogCascade: Non-seeded module ParticleModuleTypeDataGpu
+[2018.04.09-23.36.35:386][ 92]LogParticles: Warning: MaxCount =  527 for Emitter ParticleSpriteEmitter_0 (/Game/StarterContent/Particles/P_Smoke.P_Smoke)
+[2018.04.09-23.37.14:898][ 97]LogParticles: Warning: MaxCount =  527 for Emitter ParticleSpriteEmitter_0 (/Game/StarterContent/Particles/P_Smoke.P_Smoke)
+[2018.04.09-23.37.15:033][113]LogParticles: Warning: MaxCount =  517 for Emitter ParticleSpriteEmitter_0 (/Game/StarterContent/Particles/P_Smoke.P_Smoke)
+[2018.04.09-23.37.15:034][113]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_0 (/Game/StarterContent/Particles/P_Smoke.P_Smoke)
+[2018.04.09-23.37.43:368][857]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.09-23.37.43:386][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.37.43:387][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-23.37.43:387][857]PIE: New page: PIE session: Minimal_Default (Apr 9, 2018, 3:37:43 PM)
+[2018.04.09-23.37.43:387][857]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.04.09-23.37.43:392][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005382s)
+[2018.04.09-23.37.43:393][857]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.09-23.37.43:393][857]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.04.09-23.37.43:394][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006710s)
+[2018.04.09-23.37.43:423][857]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-23.37.43:650][857]LogInit: FAudioDevice initialized.
+[2018.04.09-23.37.43:690][857]LogLoad: Game class is 'GameModeBase'
+[2018.04.09-23.37.43:691][857]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.04.09-19.37.43
+[2018.04.09-23.37.43:691][857]LogWorld: Bringing up level for play took: 0.001033
+[2018.04.09-23.37.43:693][857]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.031
+[2018.04.09-23.37.43:693][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.38.46:330][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.04.09-23.38.46:365][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
