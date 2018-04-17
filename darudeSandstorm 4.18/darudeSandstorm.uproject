@@ -3,10 +3,14 @@
 	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
+			"Name": "darudeSandstorm",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
