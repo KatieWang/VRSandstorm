@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\darudeSandstorm.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{01182FEE-629E-41B3-9108-397758261F72}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\darudeSandstorm.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\darudeSandstormEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{7EE0DD79-C40E-4E9A-B250-55E0400599CD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\darudeSandstorm">
+			<UniqueIdentifier>{FF4C6FD3-14EC-4533-9632-8B8643EFC6EA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\darudeSandstorm\darudeSandstorm.Build.cs">
+			<Filter>Source\darudeSandstorm</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\darudeSandstorm\darudeSandstorm.cpp">
+			<Filter>Source\darudeSandstorm</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\darudeSandstorm\darudeSandstorm.h">
+			<Filter>Source\darudeSandstorm</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
