@@ -1,0 +1,1476 @@
+﻿Log file open, 04/23/18 19:16:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: darudeSandstorm
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1647474025) SRandInit(1647474025).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188611
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Binaries/Win64/UE4Editor-darudeSandstorm.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.23-23.16.35:977][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-23.16.35:977][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.23-23.16.36:004][  0]LogInit: Computer: ALGONER
+[2018.04.23-23.16.36:004][  0]LogInit: User: Katie
+[2018.04.23-23.16.36:004][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.23-23.16.36:004][  0]LogInit: High frequency timer resolution =3.312789 MHz
+[2018.04.23-23.16.36:004][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.23-23.16.36:004][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.23-23.16.36:004][  0]LogMemory: Process Physical Memory: 279.03 MB used, 279.03 MB peak
+[2018.04.23-23.16.36:004][  0]LogMemory: Process Virtual Memory: 270.57 MB used, 270.57 MB peak
+[2018.04.23-23.16.36:004][  0]LogMemory: Physical Memory: 6703.06 MB used,  9631.63 MB free, 16334.69 MB total
+[2018.04.23-23.16.36:004][  0]LogMemory: Virtual Memory: 735.98 MB used,  9631.63 MB free, 134217728.00 MB total
+[2018.04.23-23.16.36:199][  0]LogInit: Using OS detected language (en-US).
+[2018.04.23-23.16.36:199][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.23-23.16.36:203][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.23-23.16.36:658][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.23-23.16.38:530][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.23-23.16.38:569][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.23-23.16.38:569][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.23-23.16.38:572][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.23-23.16.38:572][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.23-23.16.38:572][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.23-23.16.38:578][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.23-23.16.38:578][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.23-23.16.38:578][  0]LogWindows: EnumDisplayDevices:
+[2018.04.23-23.16.38:578][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.23-23.16.38:578][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.04.23-23.16.38:579][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.23-23.16.38:579][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.23-23.16.38:579][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.23-23.16.38:579][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.23-23.16.38:579][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.23-23.16.38:579][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.23-23.16.38:579][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.23-23.16.38:606][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.23-23.16.38:624][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.23-23.16.38:676][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Intermediate/Shaders/WorkingDirectory/10140/).
+[2018.04.23-23.16.38:676][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Katie/AppData/Local/Temp/UnrealShaderWorkingDir/EBD873B249D0E4B78F20788266F7870F/'.
+[2018.04.23-23.16.38:676][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.23-23.16.40:700][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.23-23.16.40:766][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.23-23.16.40:832][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.23-23.16.40:899][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.23-23.16.40:970][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.23-23.16.41:037][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.23-23.16.41:105][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.23-23.16.41:175][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.23-23.16.41:238][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.23-23.16.41:310][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.23-23.16.41:380][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.23-23.16.41:446][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.23-23.16.41:512][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.23-23.16.41:577][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.23-23.16.41:707][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.23-23.16.41:707][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.23-23.16.41:776][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.23-23.16.41:829][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.23-23.16.41:945][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.23-23.16.41:981][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.23-23.16.42:046][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.23-23.16.42:110][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.23-23.16.42:174][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.23-23.16.42:242][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.23-23.16.42:242][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.23-23.16.42:888][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.23-23.16.42:960][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.23-23.16.42:960][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.23-23.16.42:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.23-23.16.42:960][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.23-23.16.42:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.23-23.16.42:960][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.23-23.16.42:990][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.23-23.16.43:002][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Katie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.23-23.16.43:014][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.23-23.16.43:014][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.23-23.16.43:015][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-23.16.43:015][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-23.16.43:468][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-23.16.43:963][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.23-23.16.44:020][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.23-23.16.44:021][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.23-23.16.44:021][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.23-23.16.44:021][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.23-23.16.44:021][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.23-23.16.44:073][  0]LogNetVersion: darudeSandstorm , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2244262674)
+[2018.04.23-23.16.44:474][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.04.23-23.16.45:478][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.090448 seconds
+[2018.04.23-23.16.45:483][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.23-23.16.45:483][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.23-23.16.45:484][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.23-23.16.45:556][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.23-23.16.50:462][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.23-23.16.50:513][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.23-23.16.51:529][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.23-23.16.52:172][  0]SourceControl: Source control is disabled
+[2018.04.23-23.16.52:172][  0]SourceControl: Source control is disabled
+[2018.04.23-23.16.52:244][  0]SourceControl: Source control is disabled
+[2018.04.23-23.16.52:315][  0]SourceControl: Source control is disabled
+[2018.04.23-23.16.53:470][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.23-23.16.53:762][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2018.04.23-23.16.53:763][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:\Program Files\Side Effects Software\Houdini 16.5.378/bin
+[2018.04.23-23.16.53:767][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.23-23.16.53:779][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.23-23.16.53:788][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.23-23.16.55:770][  0]LogHoudiniEngine: Successfully intialized the Houdini Engine API module.
+[2018.04.23-23.16.55:931][  0]LogOcInput: OculusInput pre-init called
+[2018.04.23-23.16.56:312][  0]LogEngine: Initializing Engine...
+[2018.04.23-23.16.56:314][  0]LogHMD: Oculus plugin initialized. Version: 4.18.3-3832480+++UE4+Release-4.18, OVRPlugin: 1.19.0
+[2018.04.23-23.16.56:670][  0]LogLinker: Warning: Can't find file '/Script/darudeSandstorm'
+[2018.04.23-23.16.56:670][  0]LogLinker: Warning: Can't find file '/Script/darudeSandstorm'
+[2018.04.23-23.16.56:670][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/darudeSandstorm.levelScript'
+[2018.04.23-23.16.56:671][  0]LogEngine: Error: Failed to load '/Script/darudeSandstorm.levelScript', falling back to 'LevelScriptActor'
+[2018.04.23-23.16.56:695][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.23-23.16.56:695][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.23-23.16.56:873][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.23-23.16.56:887][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.16.56:904][  0]LogInit: FAudioDevice initialized.
+[2018.04.23-23.16.57:015][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.23-23.16.57:027][  0]LogInit: Texture streaming: Enabled
+[2018.04.23-23.16.57:166][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.23-23.16.57:166][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FABEC21B-454B-93A1-D434-DDA312164CB1}
+[2018.04.23-23.16.57:345][  0]LogInit: Transaction tracking system initialized
+[2018.04.23-23.16.57:780][  0]BlueprintLog: New page: Editor Load
+[2018.04.23-23.16.59:022][  0]LocalizationService: Localization service is disabled
+[2018.04.23-23.17.00:041][  0]LogConsoleResponse: Display: 
+[2018.04.23-23.17.00:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.23-23.17.00:572][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.23-23.17.00:572][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.23-23.17.01:043][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/' took 0.02s
+[2018.04.23-23.17.01:710][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2018.04.23-23.17.02:383][  0]SourceControl: Source control is disabled
+[2018.04.23-23.17.02:383][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-23.17.02:388][  0]LightingResults: New page: Lighting Build
+[2018.04.23-23.17.02:447][  0]MapCheck: New page: Map Check
+[2018.04.23-23.17.02:447][  0]LightingResults: New page: Lighting Build
+[2018.04.23-23.17.03:095][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.23-23.17.03:113][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-23.17.03:124][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-23.17.03:190][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.03ms to complete.
+[2018.04.23-23.17.03:190][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.807
+[2018.04.23-23.17.03:373][  0]LogCollectionManager: Loaded 0 collections in 0.002445 seconds
+[2018.04.23-23.17.03:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Collections/' took 0.01s
+[2018.04.23-23.17.03:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Developers/Katie/Collections/' took 0.01s
+[2018.04.23-23.17.03:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Collections/' took 0.01s
+[2018.04.23-23.17.03:471][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.23-23.17.03:485][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2397 classes and 526 folders.
+[2018.04.23-23.17.03:580][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.23-23.17.03:889][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.04.23-23.17.03:950][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.23-23.17.04:003][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.23-23.17.04:006][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.23-23.17.04:018][  0]LogSlate: Took 0.004834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.23-23.17.04:199][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.23-23.17.04:370][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.23-23.17.04:370][  0]LogLoad: (Engine Initialization) Total time: 33.16 seconds
+[2018.04.23-23.17.04:370][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.23-23.17.04:370][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.23-23.17.04:370][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.23-23.17.04:380][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.23-23.17.04:390][  0]LogOcInput: OculusInput is initialized
+[2018.04.23-23.17.04:409][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.23-23.17.04:478][  0]LogSlate: Took 0.003717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-23.17.04:495][  1]LogAssetRegistry: Asset discovery search completed in 20.0437 seconds
+[2018.04.23-23.17.04:497][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.23-23.17.04:497][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.04.23-23.17.05:406][ 99]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-23.17.45:139][202]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-23.17.45:187][202]LogBlueprint: Warning: [Compiler highSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.23-23.17.45:188][202]LogBlueprint: Warning: [Compiler highSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.23-23.17.45:189][202]LogBlueprint: Warning: [Compiler highSmoke] [0073.98] Compile of highSmoke successful, but with 2 Warning(s) [in 2 ms] (/Game/Blueprints/highSmoke.highSmoke)
+[2018.04.23-23.17.45:202][202]LogBlueprint: Warning: [Compiler lowSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.23-23.17.45:203][202]LogBlueprint: Warning: [Compiler lowSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.23-23.17.45:204][202]LogBlueprint: Warning: [Compiler lowSmoke] [0074.00] Compile of lowSmoke successful, but with 2 Warning(s) [in 1 ms] (/Game/Blueprints/lowSmoke.lowSmoke)
+[2018.04.23-23.17.45:219][202]LogBlueprint: Warning: [Compiler mediumSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.23-23.17.45:220][202]LogBlueprint: Warning: [Compiler mediumSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.23-23.17.45:221][202]LogBlueprint: Warning: [Compiler mediumSmoke] [0074.01] Compile of mediumSmoke successful, but with 2 Warning(s) [in 2 ms] (/Game/Blueprints/mediumSmoke.mediumSmoke)
+[2018.04.23-23.17.45:368][202]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.17.45:385][202]Cmd: MAP LOAD FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-23.17.45:385][202]LightingResults: New page: Lighting Build
+[2018.04.23-23.17.45:386][202]LoadErrors: New page: Loading map: DustStorm.umap
+[2018.04.23-23.17.45:386][202]MapCheck: New page: Map Check
+[2018.04.23-23.17.45:386][202]LightingResults: New page: Lighting Build
+[2018.04.23-23.17.45:402][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-23.17.45:441][202]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-23.17.45:516][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.238ms to complete.
+[2018.04.23-23.17.45:517][202]LogFileHelpers: Loading map 'DustStorm' took 0.133
+[2018.04.23-23.20.00:807][630]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2018.04.23-23.20.01:723][630]LogSlate: Took 0.004394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.23-23.20.03:834][742]LogSlate: Took 0.004815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.23-23.20.09:072][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.20.09:943][158]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.20.09:997][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.20.09:997][158]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.23-23.20.10:019][158]LogPlayLevel: [PlayLevel] Compiling DustStorm before play...
+[2018.04.23-23.20.10:177][158]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (1 blueprints)
+[2018.04.23-23.20.10:178][158]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.20.10:206][158]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:20:10 PM)
+[2018.04.23-23.20.10:206][158]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.20.10:212][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005986s)
+[2018.04.23-23.20.10:212][158]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.20.10:213][158]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.04.23-23.20.10:213][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007153s)
+[2018.04.23-23.20.10:235][158]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.20.10:247][158]LogInit: FAudioDevice initialized.
+[2018.04.23-23.20.10:291][158]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.20.10:293][158]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.20.10
+[2018.04.23-23.20.10:293][158]LogLinker: Warning: Can't find file '/Game/animExponentialHeight'
+[2018.04.23-23.20.10:293][158]LogLinker: Warning: Can't find file '/Game/animExponentialHeight'
+[2018.04.23-23.20.10:293][158]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/animExponentialHeight.animExponentialHeight'
+[2018.04.23-23.20.10:293][158]LogWorld: Bringing up level for play took: 0.001226
+[2018.04.23-23.20.10:353][158]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.04.23-23.20.10:354][158]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.137
+[2018.04.23-23.20.10:354][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.20.10:880][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.20.10:928][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.20.19:024][711]Cmd: TRANSACTION UNDO
+[2018.04.23-23.20.19:024][711]LogEditorTransaction: Undo Create Actors
+[2018.04.23-23.20.38:743][994]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.21.07:541][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.21.09:726][876]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.21.09:748][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.09:749][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.21.09:749][876]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.21.09:770][876]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:21:09 PM)
+[2018.04.23-23.21.09:770][876]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.21.09:776][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005913s)
+[2018.04.23-23.21.09:777][876]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.21.09:777][876]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.04.23-23.21.09:777][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006853s)
+[2018.04.23-23.21.09:803][876]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.21.09:815][876]LogInit: FAudioDevice initialized.
+[2018.04.23-23.21.09:846][876]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.21.09:847][876]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.21.09
+[2018.04.23-23.21.09:867][876]LogWorld: Bringing up level for play took: 0.019966
+[2018.04.23-23.21.09:869][876]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.622
+[2018.04.23-23.21.09:869][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.13:747][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.13:794][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.15:574][280]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.21.15:590][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.15:591][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.21.15:591][280]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.21.15:612][280]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:21:15 PM)
+[2018.04.23-23.21.15:612][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.21.15:617][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005353s)
+[2018.04.23-23.21.15:618][280]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.21.15:618][280]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2018.04.23-23.21.15:618][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006235s)
+[2018.04.23-23.21.15:640][280]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.21.15:651][280]LogInit: FAudioDevice initialized.
+[2018.04.23-23.21.15:682][280]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.21.15:683][280]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.21.15
+[2018.04.23-23.21.15:701][280]LogWorld: Bringing up level for play took: 0.019082
+[2018.04.23-23.21.15:703][280]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.787
+[2018.04.23-23.21.15:703][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.16:126][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.16:178][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.21.24:950][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.23-23.21.25:306][847]LogSavePackage: Save=325.20ms
+[2018.04.23-23.21.25:306][847]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm269C4FEF4309E5E5C5835F904517109A.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.23-23.21.25:310][847]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.23-23.21.25:341][847]LogFileHelpers: Saving map 'DustStorm' took 0.461
+[2018.04.23-23.21.46:905][111]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke4)
+[2018.04.23-23.21.51:498][385]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.21.53:720][523]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.23-23.21.54:994][604]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.22.18:490][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.22.20:593][110]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.22.21:024][134]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.22.21:501][163]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.22.23:825][310]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.22.25:719][429]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke4)
+[2018.04.23-23.22.26:604][483]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.22.33:207][876]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.22.33:226][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.22.33:226][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.22.33:226][876]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.22.33:251][876]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:22:33 PM)
+[2018.04.23-23.22.33:251][876]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.22.33:257][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005798s)
+[2018.04.23-23.22.33:257][876]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.22.33:258][876]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.04.23-23.22.33:258][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006952s)
+[2018.04.23-23.22.33:283][876]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.22.33:295][876]LogInit: FAudioDevice initialized.
+[2018.04.23-23.22.33:326][876]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.22.33:327][876]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.22.33
+[2018.04.23-23.22.33:365][876]LogWorld: Bringing up level for play took: 0.038772
+[2018.04.23-23.22.33:367][876]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.877
+[2018.04.23-23.22.33:368][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.22.43:089][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.22.43:137][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.01:231][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.23.02:671][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.23.02:692][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.02:692][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.23.02:692][ 62]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.23.02:748][ 62]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:23:02 PM)
+[2018.04.23-23.23.02:748][ 62]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.23.02:755][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006346s)
+[2018.04.23-23.23.02:755][ 62]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.23.02:756][ 62]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2018.04.23-23.23.02:756][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008051s)
+[2018.04.23-23.23.02:782][ 62]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.23.02:795][ 62]LogInit: FAudioDevice initialized.
+[2018.04.23-23.23.02:828][ 62]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.23.02:829][ 62]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.23.02
+[2018.04.23-23.23.02:871][ 62]LogWorld: Bringing up level for play took: 0.041602
+[2018.04.23-23.23.02:873][ 62]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.382
+[2018.04.23-23.23.02:873][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.04:884][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.04:930][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.11:378][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.23-23.23.11:745][640]LogSavePackage: Save=343.69ms
+[2018.04.23-23.23.11:745][640]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStormDB89137F4555516AD1A8C9BD2D1974A3.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.23-23.23.11:748][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.23-23.23.11:779][640]LogFileHelpers: Saving map 'DustStorm' took 0.472
+[2018.04.23-23.23.12:324][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.23.12:805][712]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.23.15:612][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.23.34:849][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.23.34:868][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.34:868][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.23.34:868][ 41]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.23.34:924][ 41]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:23:34 PM)
+[2018.04.23-23.23.34:924][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.23.34:931][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006288s)
+[2018.04.23-23.23.34:931][ 41]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.23.34:931][ 41]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.04.23-23.23.34:932][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007216s)
+[2018.04.23-23.23.34:956][ 41]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.23.34:969][ 41]LogInit: FAudioDevice initialized.
+[2018.04.23-23.23.35:004][ 41]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.23.35:005][ 41]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.23.35
+[2018.04.23-23.23.35:054][ 41]LogWorld: Bringing up level for play took: 0.049236
+[2018.04.23-23.23.35:056][ 41]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.565
+[2018.04.23-23.23.35:056][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.45:531][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.45:577][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.23.55:754][612]Cmd: DELETE
+[2018.04.23-23.23.55:754][612]Cmd: ACTOR DELETE
+[2018.04.23-23.23.55:757][612]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2018.04.23-23.23.55:773][612]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.04.23-23.24.03:871][292]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.24.04:862][361]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke4)
+[2018.04.23-23.24.08:514][602]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.24.09:270][653]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.24.09:771][688]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.24.10:577][744]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.24.11:549][811]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.24.13:042][916]Cmd: DELETE
+[2018.04.23-23.24.13:042][916]Cmd: ACTOR DELETE
+[2018.04.23-23.24.13:044][916]LogEditorActor: Deleted Actor: mediumSmoke_C
+[2018.04.23-23.24.13:062][916]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.04.23-23.24.14:085][  3]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.24.17:768][262]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke4)
+[2018.04.23-23.24.28:059][956]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.24.28:724][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.24.29:782][ 71]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.24.38:916][691]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.24.38:935][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.24.38:936][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.24.38:936][691]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.24.38:958][691]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:24:38 PM)
+[2018.04.23-23.24.38:958][691]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.24.38:964][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005595s)
+[2018.04.23-23.24.38:965][691]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.24.38:965][691]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.04.23-23.24.38:965][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006578s)
+[2018.04.23-23.24.38:990][691]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.24.39:001][691]LogInit: FAudioDevice initialized.
+[2018.04.23-23.24.39:036][691]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.24.39:037][691]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.24.39
+[2018.04.23-23.24.39:082][691]LogWorld: Bringing up level for play took: 0.045578
+[2018.04.23-23.24.39:084][691]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.593
+[2018.04.23-23.24.39:084][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.24.46:417][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.24.46:465][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.24.50:665][649]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.24.51:519][708]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.24.53:230][827]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke4)
+[2018.04.23-23.24.54:133][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.24.55:020][948]LogEditorViewport: Clicking on Actor (LMB): lowSmoke_C (lowSmoke2)
+[2018.04.23-23.25.03:436][511]LogEditorViewport: Clicking on Actor (LMB): lowSmoke_C (lowSmoke2)
+[2018.04.23-23.25.15:277][332]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke3)
+[2018.04.23-23.25.21:140][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.25.22:940][854]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.25.25:757][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.25.26:642][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.25.26:660][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.25.26:660][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.25.26:660][104]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.25.26:688][104]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:25:26 PM)
+[2018.04.23-23.25.26:688][104]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.25.26:694][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006095s)
+[2018.04.23-23.25.26:695][104]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.25.26:695][104]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.04.23-23.25.26:695][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007040s)
+[2018.04.23-23.25.26:722][104]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.25.26:733][104]LogInit: FAudioDevice initialized.
+[2018.04.23-23.25.26:767][104]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.25.26:768][104]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.25.26
+[2018.04.23-23.25.26:812][104]LogWorld: Bringing up level for play took: 0.044737
+[2018.04.23-23.25.26:814][104]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.323
+[2018.04.23-23.25.26:815][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.25.32:562][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.25.32:614][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.25.35:004][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.23-23.25.35:369][684]LogSavePackage: Save=341.04ms
+[2018.04.23-23.25.35:369][684]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm8BE5DEF74E078397D07687AB64A15781.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.23-23.25.35:372][684]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.23-23.25.35:412][684]LogFileHelpers: Saving map 'DustStorm' took 0.478
+[2018.04.23-23.25.39:070][984]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke4)
+[2018.04.23-23.25.40:662][ 95]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.25.46:579][507]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.23-23.25.51:046][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.26.06:917][903]LogEditorViewport: Clicking Background
+[2018.04.23-23.26.10:686][218]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.26.10:704][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.10:704][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.26.10:704][218]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.26.10:731][218]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:26:10 PM)
+[2018.04.23-23.26.10:731][218]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.26.10:737][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005702s)
+[2018.04.23-23.26.10:738][218]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.26.10:738][218]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.04.23-23.26.10:738][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006661s)
+[2018.04.23-23.26.10:762][218]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.26.10:773][218]LogInit: FAudioDevice initialized.
+[2018.04.23-23.26.10:804][218]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.26.10:805][218]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.26.10
+[2018.04.23-23.26.10:846][218]LogWorld: Bringing up level for play took: 0.041747
+[2018.04.23-23.26.10:848][218]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.357
+[2018.04.23-23.26.10:848][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.17:261][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.17:309][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.20:267][993]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke3)
+[2018.04.23-23.26.22:170][127]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.26.23:390][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.26.24:370][278]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.23-23.26.25:928][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.26.36:659][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.26.37:387][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.26.37:405][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.37:406][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.26.37:406][ 28]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.26.37:461][ 28]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:26:37 PM)
+[2018.04.23-23.26.37:461][ 28]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.26.37:467][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005868s)
+[2018.04.23-23.26.37:467][ 28]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.26.37:467][ 28]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.04.23-23.26.37:467][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006789s)
+[2018.04.23-23.26.37:495][ 28]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.26.37:507][ 28]LogInit: FAudioDevice initialized.
+[2018.04.23-23.26.37:540][ 28]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.26.37:541][ 28]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.26.37
+[2018.04.23-23.26.37:592][ 28]LogWorld: Bringing up level for play took: 0.052018
+[2018.04.23-23.26.37:595][ 28]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 1.104
+[2018.04.23-23.26.37:595][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.46:282][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.46:332][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.48:413][924]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.26.48:432][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.48:433][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.26.48:433][924]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.26.48:456][924]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:26:48 PM)
+[2018.04.23-23.26.48:456][924]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.26.48:463][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007234s)
+[2018.04.23-23.26.48:464][924]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.26.48:464][924]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.04.23-23.26.48:464][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008714s)
+[2018.04.23-23.26.48:489][924]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.26.48:500][924]LogInit: FAudioDevice initialized.
+[2018.04.23-23.26.48:535][924]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.26.48:536][924]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.26.48
+[2018.04.23-23.26.48:589][924]LogWorld: Bringing up level for play took: 0.052858
+[2018.04.23-23.26.48:590][924]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.099
+[2018.04.23-23.26.48:590][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.52:040][214]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.52:087][214]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.26.54:317][390]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.27.00:853][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.27.03:546][995]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.27.06:696][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.27.09:024][372]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.27.09:042][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.09:042][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.27.09:042][372]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.27.09:064][372]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:27:09 PM)
+[2018.04.23-23.27.09:064][372]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.27.09:070][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005976s)
+[2018.04.23-23.27.09:071][372]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.27.09:071][372]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.04.23-23.27.09:071][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006935s)
+[2018.04.23-23.27.09:095][372]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.27.09:106][372]LogInit: FAudioDevice initialized.
+[2018.04.23-23.27.09:143][372]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.27.09:144][372]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.27.09
+[2018.04.23-23.27.09:198][372]LogWorld: Bringing up level for play took: 0.053645
+[2018.04.23-23.27.09:199][372]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.708
+[2018.04.23-23.27.09:199][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.14:873][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.14:926][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.15:575][895]Cmd: SELECT NONE
+[2018.04.23-23.27.16:514][970]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.27.16:533][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.16:533][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.27.16:533][970]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.27.16:592][970]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:27:16 PM)
+[2018.04.23-23.27.16:592][970]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.27.16:599][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006487s)
+[2018.04.23-23.27.16:600][970]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.27.16:600][970]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.04.23-23.27.16:600][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007684s)
+[2018.04.23-23.27.16:624][970]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.27.16:635][970]LogInit: FAudioDevice initialized.
+[2018.04.23-23.27.16:667][970]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.27.16:668][970]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.27.16
+[2018.04.23-23.27.16:721][970]LogWorld: Bringing up level for play took: 0.053635
+[2018.04.23-23.27.16:723][970]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.232
+[2018.04.23-23.27.16:723][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.20:684][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.20:736][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.27.23:599][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.23-23.27.23:965][421]LogSavePackage: Save=335.65ms
+[2018.04.23-23.27.23:965][421]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm27EF3BF64EE885A2FE1146B60E057720.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.23-23.27.23:969][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.23-23.27.24:000][421]LogFileHelpers: Saving map 'DustStorm' took 0.470
+[2018.04.23-23.27.28:394][781]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.27.29:065][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.27.30:115][896]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.23-23.28.16:306][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.28.18:368][367]LogEditorViewport: Clicking Background
+[2018.04.23-23.28.20:640][555]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke4)
+[2018.04.23-23.28.25:763][915]LogEditorViewport: Clicking Background
+[2018.04.23-23.28.31:222][378]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.28.31:242][378]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.28.31:242][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.28.31:242][378]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.28.31:267][378]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:28:31 PM)
+[2018.04.23-23.28.31:267][378]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.28.31:274][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006327s)
+[2018.04.23-23.28.31:274][378]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.28.31:274][378]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.04.23-23.28.31:275][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007351s)
+[2018.04.23-23.28.31:298][378]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.28.31:309][378]LogInit: FAudioDevice initialized.
+[2018.04.23-23.28.31:344][378]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.28.31:345][378]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.28.31
+[2018.04.23-23.28.31:395][378]LogWorld: Bringing up level for play took: 0.050229
+[2018.04.23-23.28.31:397][378]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.906
+[2018.04.23-23.28.31:397][378]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.28.35:083][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.28.35:132][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.28.37:245][856]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.23-23.28.39:502][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.28.58:908][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.29.18:413][721]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.29.18:432][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.29.18:432][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.29.18:432][721]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.29.18:454][721]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:29:18 PM)
+[2018.04.23-23.29.18:454][721]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.29.18:461][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006921s)
+[2018.04.23-23.29.18:462][721]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.29.18:462][721]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2018.04.23-23.29.18:462][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008587s)
+[2018.04.23-23.29.18:490][721]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.29.18:501][721]LogInit: FAudioDevice initialized.
+[2018.04.23-23.29.18:536][721]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.29.18:538][721]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.29.18
+[2018.04.23-23.29.18:587][721]LogWorld: Bringing up level for play took: 0.049482
+[2018.04.23-23.29.18:589][721]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.098
+[2018.04.23-23.29.18:589][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.29.25:628][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.29.25:675][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.29.37:336][142]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.29.38:147][197]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.23-23.29.43:521][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.29.44:763][657]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.29.45:253][689]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.23-23.29.50:004][ 21]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke)
+[2018.04.23-23.29.53:147][231]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.29.53:167][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.29.53:167][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.29.53:167][231]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.29.53:190][231]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:29:53 PM)
+[2018.04.23-23.29.53:190][231]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.29.53:196][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005837s)
+[2018.04.23-23.29.53:196][231]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.29.53:196][231]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2018.04.23-23.29.53:197][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006837s)
+[2018.04.23-23.29.53:221][231]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.29.53:232][231]LogInit: FAudioDevice initialized.
+[2018.04.23-23.29.53:271][231]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.29.53:272][231]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.29.53
+[2018.04.23-23.29.53:324][231]LogWorld: Bringing up level for play took: 0.052191
+[2018.04.23-23.29.53:326][231]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.835
+[2018.04.23-23.29.53:326][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.10:110][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.10:161][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.15:236][ 68]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.30.18:998][333]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.30.27:785][910]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.30.27:802][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.27:802][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.30.27:803][910]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.30.27:823][910]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:30:27 PM)
+[2018.04.23-23.30.27:823][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.30.27:831][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007842s)
+[2018.04.23-23.30.27:831][910]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.30.27:831][910]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2018.04.23-23.30.27:831][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008783s)
+[2018.04.23-23.30.27:855][910]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.30.27:867][910]LogInit: FAudioDevice initialized.
+[2018.04.23-23.30.27:903][910]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.30.27:904][910]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.30.27
+[2018.04.23-23.30.27:958][910]LogWorld: Bringing up level for play took: 0.054144
+[2018.04.23-23.30.27:959][910]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.531
+[2018.04.23-23.30.27:960][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.31:751][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.31:801][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.32:741][297]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.30.33:626][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.30.34:847][440]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.30.35:582][489]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.30.37:857][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.30.38:737][705]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.30.39:678][770]LogEditorViewport: Clicking Background
+[2018.04.23-23.30.47:501][322]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.30.47:520][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.47:520][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.30.47:521][322]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.30.47:543][322]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:30:47 PM)
+[2018.04.23-23.30.47:543][322]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.30.47:549][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006123s)
+[2018.04.23-23.30.47:550][322]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.30.47:550][322]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2018.04.23-23.30.47:550][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007118s)
+[2018.04.23-23.30.47:574][322]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.30.47:586][322]LogInit: FAudioDevice initialized.
+[2018.04.23-23.30.47:619][322]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.30.47:620][322]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.30.47
+[2018.04.23-23.30.47:674][322]LogWorld: Bringing up level for play took: 0.054884
+[2018.04.23-23.30.47:676][322]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.814
+[2018.04.23-23.30.47:677][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.50:591][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.50:638][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.30.53:721][798]Cmd: TRANSACTION UNDO
+[2018.04.23-23.30.53:721][798]LogEditorTransaction: Undo Move Actors
+[2018.04.23-23.30.56:284][975]LogEditorActor: Deleted Actor: lowSmoke_C
+[2018.04.23-23.30.56:300][975]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.04.23-23.30.58:320][136]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.31.01:595][364]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.31.10:314][953]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.31.11:210][ 15]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.31.17:803][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.31.17:822][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.31.17:822][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.31.17:822][457]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.31.17:843][457]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:31:17 PM)
+[2018.04.23-23.31.17:843][457]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.31.17:849][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006082s)
+[2018.04.23-23.31.17:850][457]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.31.17:850][457]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2018.04.23-23.31.17:850][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007145s)
+[2018.04.23-23.31.17:873][457]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.31.17:884][457]LogInit: FAudioDevice initialized.
+[2018.04.23-23.31.17:916][457]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.31.17:917][457]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.31.17
+[2018.04.23-23.31.17:966][457]LogWorld: Bringing up level for play took: 0.049865
+[2018.04.23-23.31.17:968][457]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.523
+[2018.04.23-23.31.17:968][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.31.28:989][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.31.29:040][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.31.49:154][852]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.31.49:172][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.31.49:172][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.31.49:172][852]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.31.49:194][852]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:31:49 PM)
+[2018.04.23-23.31.49:194][852]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.31.49:200][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005999s)
+[2018.04.23-23.31.49:201][852]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.31.49:201][852]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2018.04.23-23.31.49:201][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006898s)
+[2018.04.23-23.31.49:224][852]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.31.49:235][852]LogInit: FAudioDevice initialized.
+[2018.04.23-23.31.49:268][852]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.31.49:270][852]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.31.49
+[2018.04.23-23.31.49:318][852]LogWorld: Bringing up level for play took: 0.049109
+[2018.04.23-23.31.49:320][852]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.829
+[2018.04.23-23.31.49:320][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.32.28:314][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.32.28:363][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.32.41:943][135]LogEditorViewport: Clicking Background
+[2018.04.23-23.32.43:021][222]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.32.43:042][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.32.43:042][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.32.43:042][222]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.32.43:063][222]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:32:43 PM)
+[2018.04.23-23.32.43:063][222]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.32.43:069][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006088s)
+[2018.04.23-23.32.43:070][222]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.32.43:070][222]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.04.23-23.32.43:070][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006997s)
+[2018.04.23-23.32.43:093][222]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.32.43:105][222]LogInit: FAudioDevice initialized.
+[2018.04.23-23.32.43:144][222]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.32.43:145][222]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.32.43
+[2018.04.23-23.32.43:200][222]LogWorld: Bringing up level for play took: 0.055624
+[2018.04.23-23.32.43:201][222]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.711
+[2018.04.23-23.32.43:202][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.32.51:577][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.32.51:622][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.32.56:409][309]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke)
+[2018.04.23-23.33.00:762][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.23-23.33.03:333][792]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.33.03:354][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.03:354][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.33.03:354][792]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.33.03:377][792]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:33:03 PM)
+[2018.04.23-23.33.03:377][792]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.33.03:384][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007736s)
+[2018.04.23-23.33.03:385][792]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.33.03:385][792]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.04.23-23.33.03:385][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008812s)
+[2018.04.23-23.33.03:412][792]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.33.03:424][792]LogInit: FAudioDevice initialized.
+[2018.04.23-23.33.03:459][792]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.33.03:460][792]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.33.03
+[2018.04.23-23.33.03:510][792]LogWorld: Bringing up level for play took: 0.050421
+[2018.04.23-23.33.03:511][792]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 1.02
+[2018.04.23-23.33.03:511][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.06:358][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.06:412][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.16:632][868]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.23-23.33.21:348][189]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.23-23.33.26:828][557]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-23.33.26:847][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.26:847][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-23.33.26:847][557]LogHMD: Initializing OVRPlugin session
+[2018.04.23-23.33.26:870][557]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 3:33:26 PM)
+[2018.04.23-23.33.26:870][557]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.23-23.33.26:876][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006322s)
+[2018.04.23-23.33.26:877][557]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.23-23.33.26:877][557]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.04.23-23.33.26:877][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007291s)
+[2018.04.23-23.33.26:902][557]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-23.33.26:914][557]LogInit: FAudioDevice initialized.
+[2018.04.23-23.33.26:944][557]LogLoad: Game class is 'GameModeBase'
+[2018.04.23-23.33.26:946][557]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-19.33.26
+[2018.04.23-23.33.26:995][557]LogWorld: Bringing up level for play took: 0.050385
+[2018.04.23-23.33.26:997][557]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.506
+[2018.04.23-23.33.26:997][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.31:786][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.31:839][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.23-23.33.35:559][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.23-23.33.35:919][155]LogSavePackage: Save=329.96ms
+[2018.04.23-23.33.35:919][155]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm28C161D04B8C721F6527D78149ED7FD3.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.23-23.33.35:922][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.23-23.33.35:954][155]LogFileHelpers: Saving map 'DustStorm' took 0.467
+[2018.04.23-23.34.19:688][759]BlueprintLog: New page: Compile DustStorm
+[2018.04.23-23.34.20:168][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.23-23.34.20:524][776]LogSavePackage: Save=331.69ms
+[2018.04.23-23.34.20:524][776]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm2C42727B4DE88290366B5CB262B90066.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.23-23.34.20:528][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.23-23.34.20:558][776]LogFileHelpers: Saving map 'DustStorm' took 0.461
+[2018.04.23-23.36.53:771][324]Cmd: TRANSACTION UNDO
+[2018.04.23-23.36.53:771][324]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.23-23.36.53:992][338]Cmd: TRANSACTION UNDO
+[2018.04.23-23.36.53:992][338]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.23-23.36.56:751][551]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.23-23.36.56:996][568]LogEditorTransaction: Undo Delete current selection
+[2018.04.23-23.36.57:236][578]LogEditorTransaction: Undo Create Pin Link
+[2018.04.23-23.36.57:624][597]LogEditorTransaction: Undo Create Pin Link
+[2018.04.23-23.44.21:165][537]LogSavePackage: Save=409.93ms
+[2018.04.23-23.44.21:165][537]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm_Auto18793A28346D7AD06C755BC896855FCD1.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/DustStorm_Auto1.umap'
+[2018.04.23-23.44.21:168][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/DustStorm_Auto1.umap
+[2018.04.23-23.44.21:170][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DustStorm' took 0.455
+[2018.04.23-23.44.21:170][537]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.455
+[2018.04.23-23.56.16:343][278]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.23-23.57.09:226][436]LogSavePackage: Save=419.64ms
+[2018.04.23-23.57.09:226][436]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm_Auto2C4EA11EF44B1A4A665820FB4DF2829A0.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/DustStorm_Auto2.umap'
+[2018.04.23-23.57.09:228][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/DustStorm_Auto2.umap
+[2018.04.23-23.57.09:231][436]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DustStorm' took 0.461
+[2018.04.23-23.57.09:231][436]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.461
+[2018.04.23-23.58.31:020][472]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.23-23.59.00:707][251]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.23-23.59.01:135][273]LogEditorTransaction: Undo Move Nodes
+[2018.04.23-23.59.04:318][466]LogEditorTransaction: Undo Move Nodes
+[2018.04.23-23.59.05:158][507]LogEditorTransaction: Undo Move Node
+[2018.04.24-00.01.54:125][488]BlueprintLog: New page: Compile DustStorm
+[2018.04.24-00.01.55:065][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.24-00.01.55:491][526]LogSavePackage: Save=402.71ms
+[2018.04.24-00.01.55:491][526]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm443B04D547F659045C0176818C86B64D.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.24-00.01.55:494][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.24-00.01.55:524][526]LogFileHelpers: Saving map 'DustStorm' took 0.532
+[2018.04.24-00.02.02:673][914]Cmd: DELETE
+[2018.04.24-00.02.02:673][914]Cmd: ACTOR DELETE
+[2018.04.24-00.02.02:678][914]LogEditorActor: Deleted Actor: mediumSmoke_C
+[2018.04.24-00.02.02:680][914]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.02.02:680][914]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.02.02:681][914]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.02.02:682][914]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.02.02:683][914]LogEditorActor: Deleted Actor: lowSmoke_C
+[2018.04.24-00.02.02:684][914]LogEditorActor: Deleted Actor: lowSmoke_C
+[2018.04.24-00.02.02:685][914]LogEditorActor: Deleted Actor: lowSmoke_C
+[2018.04.24-00.02.02:686][914]LogEditorActor: Deleted Actor: mediumSmoke_C
+[2018.04.24-00.02.02:687][914]LogEditorActor: Deleted Actor: mediumSmoke_C
+[2018.04.24-00.02.02:704][914]LogEditorActor: Deleted 10 Actors (0.031 secs)
+[2018.04.24-00.02.03:779][989]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.02.03:796][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.03:796][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.02.03:796][989]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.02.03:821][989]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:02:03 PM)
+[2018.04.24-00.02.03:821][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.02.03:827][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006021s)
+[2018.04.24-00.02.03:828][989]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.02.03:828][989]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.04.24-00.02.03:828][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007232s)
+[2018.04.24-00.02.03:851][989]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.02.03:863][989]LogInit: FAudioDevice initialized.
+[2018.04.24-00.02.03:899][989]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.02.03:900][989]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.02.03
+[2018.04.24-00.02.03:901][989]LogWorld: Bringing up level for play took: 0.000858
+[2018.04.24-00.02.04:007][989]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.484
+[2018.04.24-00.02.04:008][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.11:314][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.11:376][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.13:548][634]LogEditorViewport: Clicking Background
+[2018.04.24-00.02.13:954][662]Cmd: TRANSACTION UNDO
+[2018.04.24-00.02.13:954][662]LogEditorTransaction: Undo Clicking Background
+[2018.04.24-00.02.14:464][693]Cmd: TRANSACTION UNDO
+[2018.04.24-00.02.14:464][693]LogEditorTransaction: Undo Delete Actors
+[2018.04.24-00.02.16:244][787]LogEditorViewport: Clicking Background
+[2018.04.24-00.02.17:571][874]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.02.17:591][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.17:592][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.02.17:592][874]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.02.17:613][874]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:02:17 PM)
+[2018.04.24-00.02.17:613][874]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.02.17:623][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009099s)
+[2018.04.24-00.02.17:623][874]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.02.17:623][874]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.04.24-00.02.17:624][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.010118s)
+[2018.04.24-00.02.17:648][874]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.02.17:660][874]LogInit: FAudioDevice initialized.
+[2018.04.24-00.02.17:695][874]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.02.17:696][874]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.02.17
+[2018.04.24-00.02.17:750][874]LogWorld: Bringing up level for play took: 0.053494
+[2018.04.24-00.02.17:845][874]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.646
+[2018.04.24-00.02.17:845][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.20:177][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.20:232][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.02.24:019][279]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.24-00.02.25:004][337]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke3)
+[2018.04.24-00.06.26:470][  7]LogEditorViewport: Clicking on Actor (LMB): mediumSmoke_C (mediumSmoke2)
+[2018.04.24-00.06.34:736][480]Cmd: DELETE
+[2018.04.24-00.06.34:736][480]Cmd: ACTOR DELETE
+[2018.04.24-00.06.34:741][480]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.06.34:743][480]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.06.34:743][480]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.06.34:744][480]LogEditorActor: Deleted Actor: highSmoke_C
+[2018.04.24-00.06.34:745][480]LogEditorActor: Deleted Actor: lowSmoke_C
+[2018.04.24-00.06.34:746][480]LogEditorActor: Deleted Actor: lowSmoke_C
+[2018.04.24-00.06.34:747][480]LogEditorActor: Deleted Actor: lowSmoke_C
+[2018.04.24-00.06.34:748][480]LogEditorActor: Deleted Actor: mediumSmoke_C
+[2018.04.24-00.06.34:748][480]LogEditorActor: Deleted Actor: mediumSmoke_C
+[2018.04.24-00.06.34:749][480]LogEditorActor: Deleted Actor: mediumSmoke_C
+[2018.04.24-00.06.34:767][480]LogEditorActor: Deleted 10 Actors (0.031 secs)
+[2018.04.24-00.06.35:709][547]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.06.35:727][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.06.35:727][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.06.35:727][547]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.06.35:749][547]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:06:35 PM)
+[2018.04.24-00.06.35:749][547]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.06.35:756][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007105s)
+[2018.04.24-00.06.35:757][547]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.06.35:757][547]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.04.24-00.06.35:757][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008120s)
+[2018.04.24-00.06.35:780][547]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.06.35:792][547]LogInit: FAudioDevice initialized.
+[2018.04.24-00.06.35:825][547]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.06.35:826][547]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.06.35
+[2018.04.24-00.06.35:827][547]LogWorld: Bringing up level for play took: 0.000770
+[2018.04.24-00.06.35:923][547]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.568
+[2018.04.24-00.06.35:923][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.07.13:228][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.07.13:290][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.07.58:700][384]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-00.08.58:621][729]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.08.58:641][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.08.58:641][729]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.24-00.08.58:662][729]LogPlayLevel: [PlayLevel] Compiling DustStorm before play...
+[2018.04.24-00.08.58:843][729]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (1 blueprints)
+[2018.04.24-00.08.58:843][729]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.08.58:869][729]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:08:58 PM)
+[2018.04.24-00.08.58:869][729]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.08.58:875][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005938s)
+[2018.04.24-00.08.58:875][729]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.08.58:876][729]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2018.04.24-00.08.58:876][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007083s)
+[2018.04.24-00.08.58:900][729]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.08.58:911][729]LogInit: FAudioDevice initialized.
+[2018.04.24-00.08.58:942][729]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.08.58:944][729]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.08.58
+[2018.04.24-00.08.58:944][729]LogWorld: Bringing up level for play took: 0.000767
+[2018.04.24-00.08.59:044][729]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.553
+[2018.04.24-00.08.59:045][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.09.13:559][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.09.13:618][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.09.24:166][723]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.09.24:184][723]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.09.24:184][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.09.24:184][723]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.09.24:205][723]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:09:24 PM)
+[2018.04.24-00.09.24:205][723]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.09.24:212][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006510s)
+[2018.04.24-00.09.24:212][723]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.09.24:212][723]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.04.24-00.09.24:213][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007464s)
+[2018.04.24-00.09.24:239][723]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.09.24:251][723]LogInit: FAudioDevice initialized.
+[2018.04.24-00.09.24:286][723]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.09.24:288][723]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.09.24
+[2018.04.24-00.09.24:288][723]LogWorld: Bringing up level for play took: 0.000826
+[2018.04.24-00.09.24:392][723]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.099
+[2018.04.24-00.09.24:392][723]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.09.36:894][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.09.36:940][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.10.41:513][539]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.10.41:533][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.10.41:533][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.10.41:533][539]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.10.41:554][539]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:10:41 PM)
+[2018.04.24-00.10.41:554][539]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.10.41:560][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006213s)
+[2018.04.24-00.10.41:561][539]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.10.41:561][539]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.04.24-00.10.41:561][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007151s)
+[2018.04.24-00.10.41:586][539]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.10.41:598][539]LogInit: FAudioDevice initialized.
+[2018.04.24-00.10.41:630][539]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.10.41:631][539]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.10.41
+[2018.04.24-00.10.41:631][539]LogWorld: Bringing up level for play took: 0.000699
+[2018.04.24-00.10.41:725][539]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.765
+[2018.04.24-00.10.41:726][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.10.44:757][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.10.44:801][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.11.24:997][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.24-00.11.25:446][589]LogSavePackage: Save=413.96ms
+[2018.04.24-00.11.25:446][589]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStormE4BB6759477A1FA70ED78C8C9F8F7F54.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.24-00.11.25:450][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.24-00.11.25:493][589]LogFileHelpers: Saving map 'DustStorm' took 0.566
+[2018.04.24-00.11.46:207][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.11.46:228][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.11.46:228][178]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.24-00.11.46:230][178]LogPlayLevel: [PlayLevel] Compiling HeightFog before play...
+[2018.04.24-00.11.46:596][178]LogPlayLevel: PlayLevel: Blueprint regeneration took 368 ms (1 blueprints)
+[2018.04.24-00.11.46:596][178]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.11.46:616][178]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:11:46 PM)
+[2018.04.24-00.11.46:617][178]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.11.46:623][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006211s)
+[2018.04.24-00.11.46:623][178]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.11.46:624][178]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.04.24-00.11.46:624][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007260s)
+[2018.04.24-00.11.46:647][178]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.11.46:659][178]LogInit: FAudioDevice initialized.
+[2018.04.24-00.11.46:690][178]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.11.46:691][178]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.11.46
+[2018.04.24-00.11.46:691][178]LogWorld: Bringing up level for play took: 0.000718
+[2018.04.24-00.11.46:786][178]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.295
+[2018.04.24-00.11.46:786][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.11.56:007][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.11.56:050][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.00:794][263]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.12.00:815][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.00:815][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.12.00:815][263]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.12.00:836][263]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:12:00 PM)
+[2018.04.24-00.12.00:836][263]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.12.00:843][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006377s)
+[2018.04.24-00.12.00:843][263]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.12.00:844][263]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.04.24-00.12.00:844][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007642s)
+[2018.04.24-00.12.00:869][263]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.12.00:879][263]LogInit: FAudioDevice initialized.
+[2018.04.24-00.12.00:915][263]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.12.00:916][263]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.12.00
+[2018.04.24-00.12.00:917][263]LogWorld: Bringing up level for play took: 0.000708
+[2018.04.24-00.12.01:016][263]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.525
+[2018.04.24-00.12.01:017][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.01:505][296]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.01:553][296]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.18:852][622]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.12.18:869][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.18:869][622]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.24-00.12.18:871][622]LogPlayLevel: [PlayLevel] Compiling HeightFog before play...
+[2018.04.24-00.12.19:248][622]LogPlayLevel: PlayLevel: Blueprint regeneration took 378 ms (1 blueprints)
+[2018.04.24-00.12.19:248][622]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.12.19:272][622]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:12:19 PM)
+[2018.04.24-00.12.19:272][622]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.12.19:279][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006369s)
+[2018.04.24-00.12.19:279][622]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.12.19:279][622]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.04.24-00.12.19:280][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007282s)
+[2018.04.24-00.12.19:304][622]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.12.19:315][622]LogInit: FAudioDevice initialized.
+[2018.04.24-00.12.19:349][622]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.12.19:350][622]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.12.19
+[2018.04.24-00.12.19:351][622]LogWorld: Bringing up level for play took: 0.000735
+[2018.04.24-00.12.19:444][622]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.953
+[2018.04.24-00.12.19:444][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.36:349][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.36:394][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.12.42:965][447]BlueprintLog: New page: Compile HeightFog
+[2018.04.24-00.12.43:879][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeightFog" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Blueprints/HeightFog.uasset" SILENT=true
+[2018.04.24-00.12.43:906][484]LogSavePackage: Save=12.68ms
+[2018.04.24-00.12.43:906][484]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/HeightFog883CE3884E642D414683F798357132A0.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Blueprints/HeightFog.uasset'
+[2018.04.24-00.12.43:910][484]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Blueprints/HeightFog.uasset
+[2018.04.24-00.13.04:830][845]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.13.04:855][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.13.04:855][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.13.04:855][845]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.13.04:877][845]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:13:04 PM)
+[2018.04.24-00.13.04:877][845]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.13.04:883][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006031s)
+[2018.04.24-00.13.04:884][845]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.13.04:884][845]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2018.04.24-00.13.04:884][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007026s)
+[2018.04.24-00.13.04:907][845]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.13.04:919][845]LogInit: FAudioDevice initialized.
+[2018.04.24-00.13.04:953][845]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.13.04:954][845]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.13.04
+[2018.04.24-00.13.04:954][845]LogWorld: Bringing up level for play took: 0.000699
+[2018.04.24-00.13.05:048][845]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.558
+[2018.04.24-00.13.05:049][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.15.35:631][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.15.35:694][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.17.48:316][475]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.17.48:335][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.17.48:335][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.17.48:335][475]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.17.48:361][475]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:17:48 PM)
+[2018.04.24-00.17.48:361][475]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.17.48:368][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007392s)
+[2018.04.24-00.17.48:369][475]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.17.48:369][475]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2018.04.24-00.17.48:369][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008825s)
+[2018.04.24-00.17.48:398][475]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.17.48:410][475]LogInit: FAudioDevice initialized.
+[2018.04.24-00.17.48:445][475]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.17.48:446][475]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.17.48
+[2018.04.24-00.17.48:447][475]LogWorld: Bringing up level for play took: 0.001051
+[2018.04.24-00.17.48:555][475]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.065
+[2018.04.24-00.17.48:556][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.17.56:937][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.17.56:995][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.18.32:486][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-00.18.36:029][406]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.18.36:051][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.18.36:051][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.18.36:051][406]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.18.36:072][406]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:18:36 PM)
+[2018.04.24-00.18.36:072][406]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.18.36:078][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005798s)
+[2018.04.24-00.18.36:079][406]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.18.36:079][406]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.04.24-00.18.36:079][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006689s)
+[2018.04.24-00.18.36:103][406]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.18.36:114][406]LogInit: FAudioDevice initialized.
+[2018.04.24-00.18.36:147][406]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.18.36:149][406]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.18.36
+[2018.04.24-00.18.36:149][406]LogWorld: Bringing up level for play took: 0.000741
+[2018.04.24-00.18.36:243][406]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.247
+[2018.04.24-00.18.36:244][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.18.42:912][853]Set new viewmode: Wireframe
+[2018.04.24-00.18.44:258][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.18.44:333][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.07:326][  9]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.24.07:344][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.07:345][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.24.07:345][  9]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.24.07:366][  9]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:24:07 PM)
+[2018.04.24-00.24.07:366][  9]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.24.07:375][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008205s)
+[2018.04.24-00.24.07:375][  9]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.24.07:376][  9]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.04.24-00.24.07:376][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.009608s)
+[2018.04.24-00.24.07:406][  9]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.24.07:418][  9]LogInit: FAudioDevice initialized.
+[2018.04.24-00.24.07:455][  9]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.24.07:456][  9]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.24.07
+[2018.04.24-00.24.07:456][  9]LogWorld: Bringing up level for play took: 0.000775
+[2018.04.24-00.24.07:568][  9]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 1.077
+[2018.04.24-00.24.07:569][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.16:774][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.16:840][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.19:689][801]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.24.19:708][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.19:708][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.24.19:708][801]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.24.19:732][801]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:24:19 PM)
+[2018.04.24-00.24.19:732][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.24.19:739][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006154s)
+[2018.04.24-00.24.19:739][801]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.24.19:740][801]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.04.24-00.24.19:740][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007357s)
+[2018.04.24-00.24.19:767][801]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.24.19:778][801]LogInit: FAudioDevice initialized.
+[2018.04.24-00.24.19:814][801]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.24.19:815][801]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.24.19
+[2018.04.24-00.24.19:816][801]LogWorld: Bringing up level for play took: 0.000938
+[2018.04.24-00.24.19:931][801]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.56
+[2018.04.24-00.24.19:931][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.31:443][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.31:507][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.33:959][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-00.24.40:565][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.24.40:583][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.40:584][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.24.40:584][ 81]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.24.40:606][ 81]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:24:40 PM)
+[2018.04.24-00.24.40:606][ 81]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.24.40:612][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005912s)
+[2018.04.24-00.24.40:613][ 81]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.24.40:613][ 81]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.04.24-00.24.40:613][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006853s)
+[2018.04.24-00.24.40:637][ 81]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.24.40:648][ 81]LogInit: FAudioDevice initialized.
+[2018.04.24-00.24.40:683][ 81]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.24.40:684][ 81]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.24.40
+[2018.04.24-00.24.40:685][ 81]LogWorld: Bringing up level for play took: 0.000692
+[2018.04.24-00.24.40:776][ 81]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.285
+[2018.04.24-00.24.40:776][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.46:663][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.46:725][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.56:313][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.24.56:332][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.24.56:332][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.24.56:332][ 54]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.24.56:354][ 54]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:24:56 PM)
+[2018.04.24-00.24.56:354][ 54]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.24.56:360][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005855s)
+[2018.04.24-00.24.56:360][ 54]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.24.56:360][ 54]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.04.24-00.24.56:361][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006757s)
+[2018.04.24-00.24.56:384][ 54]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.24.56:395][ 54]LogInit: FAudioDevice initialized.
+[2018.04.24-00.24.56:429][ 54]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.24.56:430][ 54]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.24.56
+[2018.04.24-00.24.56:431][ 54]LogWorld: Bringing up level for play took: 0.000805
+[2018.04.24-00.24.56:522][ 54]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.032
+[2018.04.24-00.24.56:523][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.25.10:120][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-00.25.11:142][838]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.24-00.25.16:408][115]LogEditorViewport: Clicking on Actor (LMB): highSmoke_C (highSmoke2)
+[2018.04.24-00.25.17:111][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.25.17:166][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.25.19:573][304]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.25.19:592][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.25.19:592][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.25.19:593][304]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:25:19 PM)
+[2018.04.24-00.25.19:593][304]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.25.19:599][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006615s)
+[2018.04.24-00.25.19:600][304]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.25.19:600][304]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.04.24-00.25.19:600][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007547s)
+[2018.04.24-00.25.19:625][304]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.25.19:636][304]LogInit: FAudioDevice initialized.
+[2018.04.24-00.25.19:669][304]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.25.19:670][304]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.25.19
+[2018.04.24-00.25.19:670][304]LogWorld: Bringing up level for play took: 0.000782
+[2018.04.24-00.25.19:769][304]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.721
+[2018.04.24-00.25.19:770][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.25.20:401][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.25.20:461][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.25.52:445][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.24-00.25.52:868][ 66]LogSavePackage: Save=387.41ms
+[2018.04.24-00.25.52:868][ 66]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStormB109C1CB425A9E09AB40B1BAB27128A2.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.24-00.25.52:873][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.24-00.25.52:904][ 66]LogFileHelpers: Saving map 'DustStorm' took 0.535
+[2018.04.24-00.26.34:098][749]BlueprintLog: New page: Compile lowSmoke
+[2018.04.24-00.26.34:101][749]LogBlueprint: Warning: [Compiler lowSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.24-00.26.34:127][749]LogBlueprint: Warning: [Compiler lowSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.24-00.26.34:386][749]LogBlueprint: Warning: [Compiler lowSmoke] [4203.18] Compile of lowSmoke successful, but with 2 Warning(s) [in 287 ms] (/Game/Blueprints/lowSmoke.lowSmoke)
+[2018.04.24-00.27.06:407][ 95]BlueprintLog: New page: Compile lowSmoke
+[2018.04.24-00.27.06:410][ 95]LogBlueprint: Warning: [DustStorm] 'speed' variable not found. Base class was probably changed. /Game/DustStorm.DustStorm:PersistentLevel.DustStorm
+[2018.04.24-00.27.06:410][ 95]LogBlueprint: Warning: [DustStorm] 'speed' variable not found. Base class was probably changed. /Game/DustStorm.DustStorm:PersistentLevel.DustStorm
+[2018.04.24-00.27.18:444][868]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-00.27.18:468][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.27.18:468][868]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.24-00.27.18:471][868]LogBlueprint: Warning: [Compiler highSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.24-00.27.18:475][868]LogPlayLevel: [PlayLevel] Compiling highSmoke before play...
+[2018.04.24-00.27.18:479][868]LogBlueprint: Warning: [Compiler highSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.24-00.27.18:485][868]LogBlueprint: Warning: [Compiler highSmoke] [4247.28] Compile of highSmoke successful, but with 2 Warning(s) [in 14 ms] (/Game/Blueprints/highSmoke.highSmoke)
+[2018.04.24-00.27.18:741][868]LogPlayLevel: PlayLevel: Blueprint regeneration took 272 ms (1 blueprints)
+[2018.04.24-00.27.18:741][868]LogHMD: Initializing OVRPlugin session
+[2018.04.24-00.27.18:762][868]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 4:27:18 PM)
+[2018.04.24-00.27.18:762][868]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-00.27.18:769][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006277s)
+[2018.04.24-00.27.18:769][868]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-00.27.18:769][868]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.04.24-00.27.18:770][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007242s)
+[2018.04.24-00.27.18:799][868]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.27.18:813][868]LogInit: FAudioDevice initialized.
+[2018.04.24-00.27.18:848][868]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-00.27.18:849][868]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-20.27.18
+[2018.04.24-00.27.18:849][868]LogWorld: Bringing up level for play took: 0.000880
+[2018.04.24-00.27.18:941][868]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.45
+[2018.04.24-00.27.18:942][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.27.26:434][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.27.26:469][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-00.27.26:529][393]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Texture.cpp:441 
+ with error E_OUTOFMEMORY, 
+ Size=6144x2048x1 Format=(0x00000035), NumMips=1, Flags=D3D11_BIND_DEPTH_STENCIL D3D11_BIND_SHADER_RESOURCE 
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     45 = 8494 KB (2D 1208x900 PF_FloatRGBA RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     61 = 8494 KB (2D 1208x900 PF_FloatRGBA RT UAV) LightAccumulation
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:    113 = 8494 KB (2D 1208x900 PF_FloatRGBA RT) SSRTemporalAA
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     77 = 8494 KB (2D 1208x900 PF_FloatRGBA RT) TemporalAA
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:    114 = 8494 KB (2D 1208x900 PF_FloatRGBA RT) TemporalAA
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:    107 = 8494 KB (2D 1208x900 PF_FloatRGBA RT) TemporalAA
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     74 = 8494 KB (2D 1208x900 PF_FloatRGBA RT) TemporalAA
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     71 = 4247 KB (2D 1208x900 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     60 = 2124 KB (2D 1208x450 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     70 = 2124 KB (2D 604x450 PF_DepthStencil) SmallDepthZ
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     68 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     65 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     63 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     67 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     64 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     62 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     28 = 2048 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     69 = 1062 KB (2D 1208x900 PF_G8 RT UAV) ScreenSpaceAO
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     81 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     72 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     87 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     88 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:     85 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:013][394]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     73 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     89 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     93 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     30 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     66 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     75 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     10 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     79 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     78 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     16 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     14 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     15 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     92 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     54 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     42 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:    112 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     76 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     11 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:     80 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2018.04.24-00.27.28:014][394]LogConsoleResponse:    115 = 0 KB (2D 6144x2048 PF_ShadowDepth) UnknownTexture2D
+[2018.04.24-00.27.28:014][394]LogConsoleResponse: 
+[2018.04.24-00.27.28:014][394]LogConsoleResponse: Pool: 53/87 MB (referenced/allocated)
+[2018.04.24-00.27.28:014][394]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.04.24-00.27.28:014][394]Cmd: Mem FromReport
+[2018.04.24-00.27.28:014][394]Log file closed, 04/23/18 20:27:28
