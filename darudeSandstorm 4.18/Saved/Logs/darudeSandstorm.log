@@ -1,0 +1,1184 @@
+﻿Log file open, 04/23/18 22:56:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: darudeSandstorm
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1843817542) SRandInit(-1843817542).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.186247
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Binaries/Win64/UE4Editor-darudeSandstorm.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.24-02.56.41:813][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-02.56.41:813][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.24-02.56.41:827][  0]LogInit: Computer: ALGONER
+[2018.04.24-02.56.41:828][  0]LogInit: User: Katie
+[2018.04.24-02.56.41:828][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.24-02.56.41:828][  0]LogInit: High frequency timer resolution =3.312789 MHz
+[2018.04.24-02.56.41:828][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.24-02.56.41:828][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-02.56.41:828][  0]LogMemory: Process Physical Memory: 280.60 MB used, 280.60 MB peak
+[2018.04.24-02.56.41:828][  0]LogMemory: Process Virtual Memory: 278.55 MB used, 278.55 MB peak
+[2018.04.24-02.56.41:828][  0]LogMemory: Physical Memory: 7911.72 MB used,  8422.96 MB free, 16334.69 MB total
+[2018.04.24-02.56.41:828][  0]LogMemory: Virtual Memory: 743.98 MB used,  8422.96 MB free, 134217728.00 MB total
+[2018.04.24-02.56.42:025][  0]LogInit: Using OS detected language (en-US).
+[2018.04.24-02.56.42:025][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.24-02.56.42:028][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.24-02.56.42:430][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.24-02.56.42:717][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.24-02.56.42:757][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.24-02.56.42:757][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.24-02.56.42:759][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.24-02.56.42:759][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.24-02.56.42:759][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.24-02.56.42:766][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.24-02.56.42:766][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.24-02.56.42:766][  0]LogWindows: EnumDisplayDevices:
+[2018.04.24-02.56.42:766][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.24-02.56.42:766][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.04.24-02.56.42:767][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.24-02.56.42:767][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.24-02.56.42:767][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.24-02.56.42:767][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.24-02.56.42:767][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.24-02.56.42:767][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.24-02.56.42:767][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.24-02.56.42:796][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.24-02.56.42:814][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.24-02.56.42:863][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Intermediate/Shaders/WorkingDirectory/1740/).
+[2018.04.24-02.56.42:863][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Katie/AppData/Local/Temp/UnrealShaderWorkingDir/0C2CD7D54CECEB57A2A5D188286DFFA6/'.
+[2018.04.24-02.56.42:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.24-02.56.43:924][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.24-02.56.43:992][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.24-02.56.44:059][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.24-02.56.44:127][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.24-02.56.44:196][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.24-02.56.44:266][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.24-02.56.44:334][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.24-02.56.44:402][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.24-02.56.44:462][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.24-02.56.44:528][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.24-02.56.44:594][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.24-02.56.44:660][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.24-02.56.44:725][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.24-02.56.44:790][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.24-02.56.44:923][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.24-02.56.44:923][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.24-02.56.44:990][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.24-02.56.45:043][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.24-02.56.45:159][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.24-02.56.45:196][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.24-02.56.45:263][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.24-02.56.45:329][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.24-02.56.45:394][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.24-02.56.45:463][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.24-02.56.45:463][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.24-02.56.46:098][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.24-02.56.46:172][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-02.56.46:172][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.24-02.56.46:172][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.24-02.56.46:172][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.24-02.56.46:172][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.24-02.56.46:172][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.24-02.56.46:188][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.24-02.56.46:200][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Katie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.24-02.56.46:213][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.24-02.56.46:213][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.24-02.56.46:214][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-02.56.46:214][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-02.56.46:661][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-02.56.47:114][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.24-02.56.47:170][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.24-02.56.47:170][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.24-02.56.47:170][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.24-02.56.47:170][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.24-02.56.47:170][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.24-02.56.47:205][  0]LogNetVersion: darudeSandstorm , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2244262674)
+[2018.04.24-02.56.47:401][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.04.24-02.56.47:969][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.075958 seconds
+[2018.04.24-02.56.47:975][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.24-02.56.47:975][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.24-02.56.47:975][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.24-02.56.48:049][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.24-02.56.51:254][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.24-02.56.51:306][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.24-02.56.52:217][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.24-02.56.52:761][  0]SourceControl: Source control is disabled
+[2018.04.24-02.56.52:761][  0]SourceControl: Source control is disabled
+[2018.04.24-02.56.52:830][  0]SourceControl: Source control is disabled
+[2018.04.24-02.56.52:899][  0]SourceControl: Source control is disabled
+[2018.04.24-02.56.53:989][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.24-02.56.54:273][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2018.04.24-02.56.54:273][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:\Program Files\Side Effects Software\Houdini 16.5.378/bin
+[2018.04.24-02.56.54:274][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.24-02.56.54:277][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.24-02.56.54:282][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.24-02.56.55:423][  0]LogHoudiniEngine: Successfully intialized the Houdini Engine API module.
+[2018.04.24-02.56.55:598][  0]LogOcInput: OculusInput pre-init called
+[2018.04.24-02.56.55:962][  0]LogEngine: Initializing Engine...
+[2018.04.24-02.56.55:964][  0]LogHMD: Oculus plugin initialized. Version: 4.18.3-3832480+++UE4+Release-4.18, OVRPlugin: 1.19.0
+[2018.04.24-02.56.56:171][  0]LogLinker: Warning: Can't find file '/Script/darudeSandstorm'
+[2018.04.24-02.56.56:171][  0]LogLinker: Warning: Can't find file '/Script/darudeSandstorm'
+[2018.04.24-02.56.56:171][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/darudeSandstorm.levelScript'
+[2018.04.24-02.56.56:171][  0]LogEngine: Error: Failed to load '/Script/darudeSandstorm.levelScript', falling back to 'LevelScriptActor'
+[2018.04.24-02.56.56:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.24-02.56.56:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.24-02.56.56:368][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.24-02.56.56:381][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-02.56.56:398][  0]LogInit: FAudioDevice initialized.
+[2018.04.24-02.56.56:510][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Katie/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-02.56.56:522][  0]LogInit: Texture streaming: Enabled
+[2018.04.24-02.56.56:667][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.24-02.56.56:667][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={C2513197-48C9-71CD-A1F8-E4BDE280D1B9}
+[2018.04.24-02.56.56:858][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.24-02.56.56:949][  0]LogInit: Transaction tracking system initialized
+[2018.04.24-02.56.57:426][  0]BlueprintLog: New page: Editor Load
+[2018.04.24-02.56.58:854][  0]LocalizationService: Localization service is disabled
+[2018.04.24-02.56.59:953][  0]LogConsoleResponse: Display: 
+[2018.04.24-02.57.00:168][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.24-02.57.00:168][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.24-02.57.00:168][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.24-02.57.00:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/' took 0.01s
+[2018.04.24-02.57.01:261][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2018.04.24-02.57.01:950][  0]SourceControl: Source control is disabled
+[2018.04.24-02.57.02:038][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-02.57.19:113][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.24-02.57.19:128][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.24-02.57.19:129][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-02.57.19:130][  0]LightingResults: New page: Lighting Build
+[2018.04.24-02.57.19:200][  0]MapCheck: New page: Map Check
+[2018.04.24-02.57.19:200][  0]LightingResults: New page: Lighting Build
+[2018.04.24-02.57.19:608][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.24-02.57.19:618][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-02.57.19:632][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-02.57.19:705][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.205ms to complete.
+[2018.04.24-02.57.19:705][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.576
+[2018.04.24-02.57.19:818][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_28e0_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_3ab4_0///####STATCAT_Advanced####
+[2018.04.24-02.57.19:819][  0]LogCollectionManager: Loaded 0 collections in 0.002443 seconds
+[2018.04.24-02.57.19:918][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Collections/' took 0.01s
+[2018.04.24-02.57.19:919][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Developers/Katie/Collections/' took 0.01s
+[2018.04.24-02.57.19:919][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Collections/' took 0.01s
+[2018.04.24-02.57.19:919][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.24-02.57.19:932][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2397 classes and 526 folders.
+[2018.04.24-02.57.20:032][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.24-02.57.20:075][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.24-02.57.20:140][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.24-02.57.20:188][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.24-02.57.20:194][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.24-02.57.20:333][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-02.57.20:499][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.24-02.57.20:499][  0]LogLoad: (Engine Initialization) Total time: 41.89 seconds
+[2018.04.24-02.57.20:499][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.24-02.57.20:499][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.24-02.57.20:499][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.24-02.57.20:519][  0]LogOcInput: OculusInput is initialized
+[2018.04.24-02.57.20:537][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.24-02.57.20:577][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-02.57.20:594][  1]LogAssetRegistry: Asset discovery search completed in 33.2153 seconds
+[2018.04.24-02.57.20:595][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.24-02.57.20:595][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.04.24-02.57.21:533][101]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-02.57.48:911][367]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-02.57.48:962][367]LogBlueprint: Warning: [Compiler mediumSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.24-02.57.48:963][367]LogBlueprint: Warning: [Compiler mediumSmoke] Variable speed is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.04.24-02.57.48:964][367]LogBlueprint: Warning: [Compiler mediumSmoke] [0070.35] Compile of mediumSmoke successful, but with 2 Warning(s) [in 1 ms] (/Game/Blueprints/mediumSmoke.mediumSmoke)
+[2018.04.24-02.57.49:079][367]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-02.57.49:097][367]Cmd: MAP LOAD FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-02.57.49:097][367]LightingResults: New page: Lighting Build
+[2018.04.24-02.57.49:098][367]LoadErrors: New page: Loading map: DustStorm.umap
+[2018.04.24-02.57.49:099][367]MapCheck: New page: Map Check
+[2018.04.24-02.57.49:099][367]LightingResults: New page: Lighting Build
+[2018.04.24-02.57.49:110][367]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-02.57.49:151][367]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-02.57.49:223][367]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.319ms to complete.
+[2018.04.24-02.57.49:223][367]LogFileHelpers: Loading map 'DustStorm' took 0.127
+[2018.04.24-03.06.43:691][273]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.06.43:753][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.06.43:753][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.06.43:753][273]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.06.43:784][273]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:06:43 PM)
+[2018.04.24-03.06.43:784][273]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.06.43:793][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008937s)
+[2018.04.24-03.06.43:794][273]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.06.43:794][273]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2018.04.24-03.06.43:795][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.010315s)
+[2018.04.24-03.06.43:813][273]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.06.43:826][273]LogInit: FAudioDevice initialized.
+[2018.04.24-03.06.43:870][273]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.06.43:872][273]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.06.43
+[2018.04.24-03.06.43:872][273]LogWorld: Bringing up level for play took: 0.000932
+[2018.04.24-03.06.43:929][273]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.04.24-03.06.44:031][273]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.46
+[2018.04.24-03.06.44:031][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.06.47:156][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.06.47:196][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.06.55:913][604]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.04.24-03.06.56:766][604]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.24-03.06.57:025][605]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.24-03.07.05:173][155]BlueprintLog: New page: Compile DustStorm
+[2018.04.24-03.07.06:515][238]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.07.06:540][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.07.06:540][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.07.06:541][238]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.07.06:565][238]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:07:06 PM)
+[2018.04.24-03.07.06:565][238]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.07.06:571][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006212s)
+[2018.04.24-03.07.06:572][238]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.07.06:572][238]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.04.24-03.07.06:572][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007140s)
+[2018.04.24-03.07.06:594][238]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.07.06:606][238]LogInit: FAudioDevice initialized.
+[2018.04.24-03.07.06:639][238]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.07.06:640][238]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.07.06
+[2018.04.24-03.07.06:640][238]LogWorld: Bringing up level for play took: 0.000734
+[2018.04.24-03.07.06:736][238]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.245
+[2018.04.24-03.07.06:737][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.07.50:564][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.07.50:621][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.07.55:760][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.24-03.07.56:209][857]LogSavePackage: Save=414.69ms
+[2018.04.24-03.07.56:209][857]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm677058D24B807F827498A1A440F862D0.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.24-03.07.56:216][857]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.24-03.07.56:247][857]LogFileHelpers: Saving map 'DustStorm' took 0.561
+[2018.04.24-03.08.02:936][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.24-03.08.03:370][254]LogSavePackage: Save=410.56ms
+[2018.04.24-03.08.03:371][254]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm6B501CFD4F0ED62410A927B497427121.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.24-03.08.03:374][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.24-03.08.03:406][254]LogFileHelpers: Saving map 'DustStorm' took 0.538
+[2018.04.24-03.08.06:298][451]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.04.24-03.08.06:301][451]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.08.06:614][451]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.08.06:661][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.24-03.08.08:613][549]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.24-03.08.08:613][549]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.24-03.08.08:613][549]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.24-03.08.08:613][549]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.08.08:613][549]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.24-03.08.08:613][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.09.33:691][894]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.24-03.12.15:113][284]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.12.15:230][284]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.12.15:254][284]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.12.15:304][284]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.24-03.12.17:069][322]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.24-03.12.17:069][322]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.24-03.12.17:069][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.24-03.12.17:069][322]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.12.17:069][322]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.24-03.12.17:069][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.13.25:396][604]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.13.25:418][604]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.24-03.13.27:217][704]AssetReimport: New page: Outstanding source content changes 7:13:27 PM
+[2018.04.24-03.13.27:226][704]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandNormal.png)
+[2018.04.24-03.13.27:442][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/sandNormal" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandNormal.uasset" SILENT=true
+[2018.04.24-03.13.27:722][705]LogSavePackage: Save=278.62ms
+[2018.04.24-03.13.27:723][705]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/sandNormalC100B6904E229AE689BE5EBF9AE1A7A5.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandNormal.uasset'
+[2018.04.24-03.13.27:726][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandNormal.uasset
+[2018.04.24-03.13.27:734][705]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.24-03.13.27:734][705]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.24-03.13.27:734][705]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.24-03.13.27:734][705]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.13.27:734][705]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.24-03.13.27:734][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.13.30:734][951]AssetReimport: Importing new asset /Game/Textures/sandNormal.
+[2018.04.24-03.13.33:278][169]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.13.34:716][244]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.24-03.13.34:716][244]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.24-03.13.34:716][244]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.24-03.13.34:716][244]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.13.34:716][244]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.24-03.13.34:716][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.13.37:162][452]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.13.37:194][452]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.24-03.13.38:594][526]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.24-03.13.38:594][526]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.24-03.13.38:594][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.24-03.13.38:594][526]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.13.38:594][526]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.24-03.13.38:594][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.13.45:285][ 44]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.13.45:316][ 44]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.24-03.13.46:919][127]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.24-03.13.46:919][127]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.24-03.13.46:919][127]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.24-03.13.46:919][127]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.13.46:919][127]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.24-03.13.46:919][127]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.13.47:483][172]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.13.47:506][172]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.24-03.13.49:008][252]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.13.49:008][252]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.13.49:008][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.13.49:008][252]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.13.49:008][252]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.13.49:008][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.13.50:065][339]LogMaterialEditor: Applying material 36_desert_sand_texture-seamless_Mat
+[2018.04.24-03.13.50:602][339]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.13.50:666][339]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.13.50:735][339]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.13.50:820][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.13.51:879][339]TextureStreamingBuild: Display: Compiling optional shaders took 1.069 seconds.
+[2018.04.24-03.13.54:562][506]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.13.54:562][506]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.13.54:562][506]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.13.54:562][506]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.13.54:562][506]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.13.54:562][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.13.59:202][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-03.14.01:314][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-03.14.07:036][408]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.14.07:066][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.14.07:066][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.14.07:066][408]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.14.07:090][408]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:14:07 PM)
+[2018.04.24-03.14.07:090][408]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.14.07:096][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006440s)
+[2018.04.24-03.14.07:097][408]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.14.07:097][408]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.04.24-03.14.07:097][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007340s)
+[2018.04.24-03.14.07:121][408]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.14.07:133][408]LogInit: FAudioDevice initialized.
+[2018.04.24-03.14.07:167][408]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.14.07:168][408]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.14.07
+[2018.04.24-03.14.07:168][408]LogWorld: Bringing up level for play took: 0.000733
+[2018.04.24-03.14.07:263][408]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.772
+[2018.04.24-03.14.07:263][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.14.19:362][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.14.19:405][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.14.32:425][547]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.14.33:074][588]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.14.34:708][677]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.14.34:708][677]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.14.34:708][677]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.14.34:708][677]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.14.34:708][677]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.14.34:708][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.14.36:747][847]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.14.37:471][885]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.14.39:061][969]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.14.39:061][969]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.14.39:061][969]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.14.39:061][969]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.14.39:061][969]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.14.39:061][969]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.14.41:540][177]LogMaterialEditor: Applying material 36_desert_sand_texture-seamless_Mat
+[2018.04.24-03.14.42:088][177]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.14.42:149][177]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.14.42:218][177]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.14.42:298][177]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.14.43:355][177]TextureStreamingBuild: Display: Compiling optional shaders took 1.063 seconds.
+[2018.04.24-03.14.46:086][347]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.14.46:086][347]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.14.46:086][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.14.46:086][347]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.14.46:086][347]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.14.46:086][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.15.00:631][192]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.15.00:649][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.00:649][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.15.00:649][192]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.15.00:671][192]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:15:00 PM)
+[2018.04.24-03.15.00:671][192]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.15.00:678][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006799s)
+[2018.04.24-03.15.00:679][192]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.15.00:679][192]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2018.04.24-03.15.00:680][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008168s)
+[2018.04.24-03.15.00:705][192]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.15.00:716][192]LogInit: FAudioDevice initialized.
+[2018.04.24-03.15.00:749][192]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.15.00:750][192]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.15.00
+[2018.04.24-03.15.00:751][192]LogWorld: Bringing up level for play took: 0.000766
+[2018.04.24-03.15.00:847][192]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.356
+[2018.04.24-03.15.00:847][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.04:453][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.04:492][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.13:132][102]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.15.14:962][207]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.15.14:962][207]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.15.14:962][207]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.15.14:962][207]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.15.14:962][207]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.15.14:962][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.15.15:732][271]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.15.17:252][356]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.15.17:253][356]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.15.17:253][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.15.17:253][356]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.15.17:253][356]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.15.17:253][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.15.21:032][682]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.15.22:582][766]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.15.22:582][766]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.15.22:582][766]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.15.22:582][766]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.15.22:582][766]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.15.22:582][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.15.23:898][872]LogMaterialEditor: Applying material 36_desert_sand_texture-seamless_Mat
+[2018.04.24-03.15.24:449][872]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.15.24:507][872]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.15.24:572][872]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.15.24:651][872]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.15.25:752][872]TextureStreamingBuild: Display: Compiling optional shaders took 1.110 seconds.
+[2018.04.24-03.15.28:448][ 37]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.15.28:448][ 37]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.15.28:448][ 37]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.15.28:448][ 37]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.15.28:448][ 37]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.15.28:448][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.15.35:339][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.15.35:356][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.35:356][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.15.35:356][633]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.15.35:383][633]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:15:35 PM)
+[2018.04.24-03.15.35:383][633]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.15.35:390][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006568s)
+[2018.04.24-03.15.35:390][633]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.15.35:391][633]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.04.24-03.15.35:391][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007985s)
+[2018.04.24-03.15.35:414][633]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.15.35:426][633]LogInit: FAudioDevice initialized.
+[2018.04.24-03.15.35:459][633]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.15.35:460][633]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.15.35
+[2018.04.24-03.15.35:460][633]LogWorld: Bringing up level for play took: 0.000761
+[2018.04.24-03.15.35:560][633]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 1.07
+[2018.04.24-03.15.35:561][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.38:951][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.38:989][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.15.45:593][498]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.15.47:108][583]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.15.47:108][583]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.15.47:108][583]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.15.47:108][583]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.15.47:108][583]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.15.47:108][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.15.47:916][651]LogMaterialEditor: Applying material 36_desert_sand_texture-seamless_Mat
+[2018.04.24-03.15.48:475][651]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.15.48:539][651]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.15.48:608][651]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.15.48:692][651]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.15.49:845][651]TextureStreamingBuild: Display: Compiling optional shaders took 1.164 seconds.
+[2018.04.24-03.15.52:833][828]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.15.52:833][828]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.15.52:833][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.15.52:833][828]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.15.52:833][828]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.15.52:833][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.18.22:832][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DustStorm' took 0.015
+[2018.04.24-03.18.22:834][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/36_desert_sand_texture-seamless_Mat] ([1] browsable assets)...
+[2018.04.24-03.18.22:851][ 61]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/36_desert_sand_texture-seamless_Mat.36_desert_sand_texture-seamless_Mat]
+[2018.04.24-03.18.22:851][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/36_desert_sand_texture-seamless_Mat]
+[2018.04.24-03.18.22:887][ 61]LogSavePackage: Save=19.57ms
+[2018.04.24-03.18.22:887][ 61]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/36_desert_sand_texture-seamless_F8747D60475D65414E6046AFD27593BA.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/Textures/36_desert_sand_texture-seamless_Mat_Auto1.uasset'
+[2018.04.24-03.18.22:888][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/Textures/36_desert_sand_texture-seamless_Mat_Auto1.uasset
+[2018.04.24-03.18.22:888][ 61]LogFileHelpers: Auto-saving content packages took 0.056
+[2018.04.24-03.18.31:031][348]AssetReimport: New page: Outstanding source content changes 7:18:31 PM
+[2018.04.24-03.18.31:037][348]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandOffset.png)
+[2018.04.24-03.18.31:286][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/sandOffset" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandOffset.uasset" SILENT=true
+[2018.04.24-03.18.31:446][349]LogSavePackage: Save=158.65ms
+[2018.04.24-03.18.31:446][349]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/sandOffsetB8BD607D4D409A9C141CB9A55AA97B1F.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandOffset.uasset'
+[2018.04.24-03.18.31:449][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/sandOffset.uasset
+[2018.04.24-03.18.34:459][488]AssetReimport: Importing new asset /Game/Textures/sandOffset.
+[2018.04.24-03.18.46:332][534]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_3.MaterialExpressionTextureCoordinate_1"')'
+[2018.04.24-03.18.46:339][534]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.18.46:385][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.24-03.18.46:390][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.24-03.18.48:305][644]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.18.48:305][644]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.18.48:305][644]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.18.48:305][644]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.18.48:305][644]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.18.48:305][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.18.55:056][180]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.18.55:086][180]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.24-03.18.56:553][256]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.18.56:553][256]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.18.56:553][256]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.18.56:554][256]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.18.56:554][256]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.18.56:554][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.18.57:926][367]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.18.57:976][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.24-03.18.59:170][427]LogMaterialEditor: Applying material 36_desert_sand_texture-seamless_Mat
+[2018.04.24-03.18.59:965][427]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.19.00:056][427]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.19.00:175][427]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.19.00:281][427]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.19.01:750][427]TextureStreamingBuild: Display: Compiling optional shaders took 1.478 seconds.
+[2018.04.24-03.19.05:859][674]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.19.05:859][674]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.19.05:859][674]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.19.05:859][674]MaterialEditorStats: Vertex shader: 39 instructions
+[2018.04.24-03.19.05:859][674]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.19.05:859][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.19.09:243][963]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.19.09:261][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.19.09:261][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.19.09:261][963]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.19.09:282][963]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:19:09 PM)
+[2018.04.24-03.19.09:282][963]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.19.09:288][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006440s)
+[2018.04.24-03.19.09:289][963]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.19.09:289][963]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.04.24-03.19.09:289][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007477s)
+[2018.04.24-03.19.09:312][963]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.19.09:325][963]LogInit: FAudioDevice initialized.
+[2018.04.24-03.19.09:360][963]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.19.09:362][963]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.19.09
+[2018.04.24-03.19.09:362][963]LogWorld: Bringing up level for play took: 0.000850
+[2018.04.24-03.19.09:461][963]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.97
+[2018.04.24-03.19.09:461][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.19.21:349][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.19.21:390][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.19.27:070][507]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.19.28:705][609]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.19.28:731][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.19.28:731][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.19.28:731][609]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.19.28:760][609]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:19:28 PM)
+[2018.04.24-03.19.28:760][609]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.19.28:768][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008426s)
+[2018.04.24-03.19.28:769][609]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.19.28:769][609]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.04.24-03.19.28:769][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.009708s)
+[2018.04.24-03.19.28:794][609]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.19.28:809][609]LogInit: FAudioDevice initialized.
+[2018.04.24-03.19.28:844][609]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.19.28:845][609]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.19.28
+[2018.04.24-03.19.28:846][609]LogWorld: Bringing up level for play took: 0.000948
+[2018.04.24-03.19.28:950][609]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.459
+[2018.04.24-03.19.28:950][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.19.28:981][610]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.19.28:981][610]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.19.28:981][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.19.28:981][610]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.19.28:981][610]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.19.28:981][610]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.22.55:213][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.22.55:256][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.22.58:495][953]LogSavePackage: Save=21.80ms
+[2018.04.24-03.22.58:495][953]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/36_desert_sand_texture-seamless_9F9BD53C41093C6F44B7A2894D559B30.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/36_desert_sand_texture-seamless_Mat.uasset'
+[2018.04.24-03.22.58:499][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/36_desert_sand_texture-seamless_Mat.uasset
+[2018.04.24-03.34.47:657][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-03.34.55:797][385]LogMaterialEditor: Applying material 36_desert_sand_texture-seamless_Mat
+[2018.04.24-03.34.56:327][385]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.24-03.34.56:381][385]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.34.56:429][385]LogMaterial: Missing cached shader map for material 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.34.56:492][385]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 36_desert_sand_texture-seamless_Mat, compiling. 
+[2018.04.24-03.34.57:908][385]TextureStreamingBuild: Display: Compiling optional shaders took 1.424 seconds.
+[2018.04.24-03.34.58:429][408]LogMaterialEditor: Saving and Compiling material 36_desert_sand_texture-seamless_Mat
+[2018.04.24-03.35.00:220][408]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-03.35.00:271][408]LogSavePackage: Save=19.59ms
+[2018.04.24-03.35.00:271][408]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/36_desert_sand_texture-seamless_EB0B6E5D45759A330C6AE7A7967C0282.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/36_desert_sand_texture-seamless_Mat.uasset'
+[2018.04.24-03.35.00:273][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Textures/36_desert_sand_texture-seamless_Mat.uasset
+[2018.04.24-03.35.00:278][408]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.24-03.35.00:278][408]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.04.24-03.35.00:278][408]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.24-03.35.00:278][408]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.24-03.35.00:278][408]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.24-03.35.00:278][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-03.39.47:962][967]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.39.47:981][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.39.47:981][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.39.47:981][967]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.39.48:053][967]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:39:48 PM)
+[2018.04.24-03.39.48:053][967]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.39.48:060][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006656s)
+[2018.04.24-03.39.48:061][967]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.39.48:061][967]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.04.24-03.39.48:061][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007894s)
+[2018.04.24-03.39.48:088][967]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.39.48:100][967]LogInit: FAudioDevice initialized.
+[2018.04.24-03.39.48:133][967]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.39.48:135][967]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.39.48
+[2018.04.24-03.39.48:135][967]LogWorld: Bringing up level for play took: 0.000807
+[2018.04.24-03.39.48:231][967]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.26
+[2018.04.24-03.39.48:231][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.27:627][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.27:691][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.31:242][331]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.40.31:261][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.31:261][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.40.31:261][331]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.40.31:282][331]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:40:31 PM)
+[2018.04.24-03.40.31:282][331]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.40.31:290][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007613s)
+[2018.04.24-03.40.31:291][331]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.40.31:291][331]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.04.24-03.40.31:291][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008878s)
+[2018.04.24-03.40.31:316][331]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.40.31:328][331]LogInit: FAudioDevice initialized.
+[2018.04.24-03.40.31:365][331]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.40.31:366][331]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.40.31
+[2018.04.24-03.40.31:366][331]LogWorld: Bringing up level for play took: 0.000704
+[2018.04.24-03.40.31:462][331]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.971
+[2018.04.24-03.40.31:462][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.36:515][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-03.40.38:605][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.38:653][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.39:827][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (groundplane)
+[2018.04.24-03.40.58:110][989]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.40.58:127][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.40.58:128][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.40.58:128][989]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:40:58 PM)
+[2018.04.24-03.40.58:128][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.40.58:134][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006409s)
+[2018.04.24-03.40.58:135][989]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.40.58:135][989]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2018.04.24-03.40.58:135][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.007311s)
+[2018.04.24-03.40.58:158][989]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.40.58:170][989]LogInit: FAudioDevice initialized.
+[2018.04.24-03.40.58:205][989]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.40.58:206][989]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.40.58
+[2018.04.24-03.40.58:207][989]LogWorld: Bringing up level for play took: 0.000709
+[2018.04.24-03.40.58:306][989]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm -0.185
+[2018.04.24-03.40.58:306][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.00:741][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.00:798][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.02:327][273]Cmd: TRANSACTION UNDO
+[2018.04.24-03.41.02:327][273]LogEditorTransaction: Undo Set Scale
+[2018.04.24-03.41.06:537][538]Cmd: TRANSACTION UNDO
+[2018.04.24-03.41.06:538][538]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-03.41.09:111][702]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.41.09:130][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.09:131][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.41.09:131][702]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.41.09:152][702]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:41:09 PM)
+[2018.04.24-03.41.09:152][702]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.41.09:158][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006018s)
+[2018.04.24-03.41.09:158][702]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.41.09:158][702]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.04.24-03.41.09:159][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.006955s)
+[2018.04.24-03.41.09:182][702]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.41.09:195][702]LogInit: FAudioDevice initialized.
+[2018.04.24-03.41.09:228][702]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.41.09:229][702]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.41.09
+[2018.04.24-03.41.09:230][702]LogWorld: Bringing up level for play took: 0.000738
+[2018.04.24-03.41.09:323][702]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 0.833
+[2018.04.24-03.41.09:324][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.12:777][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.12:837][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.21:352][620]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.24-03.41.21:371][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.21:372][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-03.41.21:372][620]LogHMD: Initializing OVRPlugin session
+[2018.04.24-03.41.21:393][620]PIE: New page: PIE session: DustStorm (Apr 23, 2018, 7:41:21 PM)
+[2018.04.24-03.41.21:393][620]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DustStorm
+[2018.04.24-03.41.21:401][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007920s)
+[2018.04.24-03.41.21:401][620]LogAIModule: Creating AISystem for world DustStorm
+[2018.04.24-03.41.21:402][620]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.04.24-03.41.21:402][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DustStorm.DustStorm to /Game/UEDPIE_0_DustStorm.DustStorm (0.008931s)
+[2018.04.24-03.41.21:426][620]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-03.41.21:436][620]LogInit: FAudioDevice initialized.
+[2018.04.24-03.41.21:469][620]LogLoad: Game class is 'GameModeBase'
+[2018.04.24-03.41.21:470][620]LogWorld: Bringing World /Game/UEDPIE_0_DustStorm.DustStorm up for play (max tick rate 0) at 2018.04.23-23.41.21
+[2018.04.24-03.41.21:470][620]LogWorld: Bringing up level for play took: 0.000768
+[2018.04.24-03.41.21:567][620]PIE: Play in editor start time for /Game/UEDPIE_0_DustStorm 1.077
+[2018.04.24-03.41.21:568][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.32:250][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.41.32:312][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DustStorm.DustStorm:PersistentLevel' has LevelScriptBlueprint '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm' with GeneratedClass '/Game/DustStorm.DustStorm_C' with ClassGeneratedBy '/Game/DustStorm.DustStorm:PersistentLevel.DustStorm'
+[2018.04.24-03.42.09:886][348]LogSavePackage: Save=405.13ms
+[2018.04.24-03.42.09:886][348]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm_Auto24C875323437D80E2FB25D1B2EC49E05B.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/DustStorm_Auto2.umap'
+[2018.04.24-03.42.09:889][348]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Autosaves/Game/DustStorm_Auto2.umap
+[2018.04.24-03.42.09:891][348]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DustStorm' took 0.445
+[2018.04.24-03.42.09:891][348]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.445
+[2018.04.24-03.42.36:294][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DustStorm" FILE="../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.24-03.42.36:735][324]LogSavePackage: Save=416.79ms
+[2018.04.24-03.42.36:736][324]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm6C910A5A4378D9CDA1CD5E810078F4E6.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
+[2018.04.24-03.42.36:739][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
+[2018.04.24-03.42.36:778][324]LogFileHelpers: Saving map 'DustStorm' took 0.562
+[2018.04.24-03.43.40:257][568]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.24-03.43.40:444][569]Cmd: QUIT_EDITOR
+[2018.04.24-03.43.40:957][569]LogExit: Preparing to exit.
+[2018.04.24-03.43.41:152][569]LogDirectoryWatcher: A directory notification for 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/' was aborted.
+[2018.04.24-03.43.41:190][569]LogExit: Editor shut down
+[2018.04.24-03.43.41:201][569]LogExit: Transaction tracking system shut down
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/' was aborted.
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/' was aborted.
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.24-03.43.41:353][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.24-03.43.41:440][569]LogExit: Object subsystem successfully closed.
+[2018.04.24-03.43.41:465][569]LogD3D11RHI: Shutdown
+[2018.04.24-03.43.41:465][569]LogD3D11RHI: CleanupD3DDevice
+[2018.04.24-03.43.41:468][569]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module TextureEditor (562)
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module MaterialEditor (560)
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module DesktopPlatform (552)
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2018.04.24-03.43.41:488][569]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2018.04.24-03.43.41:488][569]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2018.04.24-03.43.41:490][569]LogDirectoryWatcher: A directory notification for 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Collections/' was aborted.
+[2018.04.24-03.43.41:490][569]LogDirectoryWatcher: A directory notification for 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/Developers/Katie/Collections/' was aborted.
+[2018.04.24-03.43.41:490][569]LogDirectoryWatcher: A directory notification for 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/Collections/' was aborted.
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2018.04.24-03.43.41:490][569]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (514)
+[2018.04.24-03.43.41:491][569]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.04.24-03.43.41:491][569]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.04.24-03.43.41:492][569]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.04.24-03.43.41:492][569]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.04.24-03.43.41:492][569]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.04.24-03.43.41:492][569]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.04.24-03.43.41:492][569]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.04.24-03.43.42:275][569]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.04.24-03.43.42:339][569]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.04.24-03.43.42:345][569]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.04.24-03.43.42:346][569]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.04.24-03.43.42:431][569]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.04.24-03.43.42:431][569]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.04.24-03.43.42:431][569]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.04.24-03.43.42:431][569]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.04.24-03.43.42:431][569]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.04.24-03.43.42:431][569]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.04.24-03.43.42:431][569]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (338)
+[2018.04.24-03.43.42:431][569]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2018.04.24-03.43.42:434][569]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.04.24-03.43.42:434][569]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.04.24-03.43.42:434][569]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.04.24-03.43.42:434][569]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.04.24-03.43.42:434][569]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.04.24-03.43.42:434][569]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.04.24-03.43.42:434][569]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.04.24-03.43.42:435][569]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.04.24-03.43.42:436][569]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.04.24-03.43.42:436][569]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.04.24-03.43.42:436][569]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.04.24-03.43.42:436][569]LogDirectoryWatcher: A directory notification for 'C:/Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Binaries/Win64' was aborted.
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module darudeSandstorm (270)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.04.24-03.43.42:437][569]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.04.24-03.43.42:538][569]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.04.24-03.43.42:639][569]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.24-03.43.42:639][569]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.24-03.43.42:639][569]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.24-03.43.42:639][569]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.24-03.43.42:639][569]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.24-03.43.42:639][569]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.24-03.43.42:640][569]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.24-03.43.42:640][569]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.24-03.43.42:640][569]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.24-03.43.42:640][569]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.24-03.43.42:643][569]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.24-03.43.42:643][569]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.24-03.43.42:643][569]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.24-03.43.42:643][569]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.24-03.43.42:643][569]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.24-03.43.42:643][569]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.24-03.43.42:650][569]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.24-03.43.42:651][569]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.24-03.43.42:654][569]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.24-03.43.42:656][569]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.24-03.43.42:660][569]LogDerivedDataCache: Shutdown
+[2018.04.24-03.43.42:660][569]LogDerivedDataCache: Shutdown
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.24-03.43.42:660][569]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.24-03.43.42:661][569]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.24-03.43.42:661][569]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.24-03.43.42:661][569]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EDEAAD9-4954-88E8-F64D-56B3CA422B07%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f6dda81c48ce2242a9732fae70ed99e2%7Ccc1d36e2266a499d9016c89fe3645053%7Cd0c5bbd1-39b9-4d9f-8862-9e08e9986072&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.24-03.43.42:683][569]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.24-03.43.42:685][569]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.24-03.43.42:685][569]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.24-03.43.42:685][569]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.24-03.43.42:685][569]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.24-03.43.42:685][569]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.24-03.43.42:685][569]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.24-03.43.42:685][569]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.24-03.43.42:686][569]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.24-03.43.42:692][569]LogExit: Exiting.
+[2018.04.24-03.43.42:707][569]Log file closed, 04/23/18 23:43:42
