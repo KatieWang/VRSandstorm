@@ -2344,3 +2344,4 @@ LogInit: Object subsystem initialized
 [2018.05.04-20.10.33:581][544]LogSavePackage: Moving '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Saved/DustStorm5D6B83954A8148B673B89AAC2C8DE7C5.tmp' to '../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap'
 [2018.05.04-20.10.33:585][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Katie/Documents/VRSandstorm/darudeSandstorm 4.18/Content/DustStorm.umap
 [2018.05.04-20.10.33:627][544]LogFileHelpers: Saving map 'DustStorm' took 1.005
+[2018.05.07-16.45.00:077][765]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
